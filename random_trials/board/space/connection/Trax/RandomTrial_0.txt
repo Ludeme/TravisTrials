@@ -1,0 +1,23 @@
+game=../Common/res/lud/board/space/connection/Trax.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-38,-114,-117,-34,-35,117,-109,108
+Move=[Move:mover=0,from=1681,to=1681,actions=[Add:type=Cell,to=1681,what=1]]
+Move=[Move:mover=0,from=1682,to=1682,actions=[Add:type=Cell,to=1682,what=2]]
+Move=[Move:mover=1,from=1682,to=840,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=840,decision=true],[SetRotation:type=Cell,to=840,rotation=4]]
+Move=[Move:mover=2,from=1682,to=881,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=881,decision=true],[SetRotation:type=Cell,to=881,rotation=6]]
+Move=[Move:mover=1,from=1682,to=880,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=880,decision=true],[SetRotation:type=Cell,to=880,rotation=0]]
+Move=[Move:mover=2,from=1681,to=922,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=922,decision=true],[SetRotation:type=Cell,to=922,rotation=0]]
+Move=[Move:mover=1,from=1682,to=799,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=799,decision=true],[SetRotation:type=Cell,to=799,rotation=6]]
+Move=[Move:mover=2,from=1682,to=839,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=839,decision=true],[SetRotation:type=Cell,to=839,rotation=2],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=798,decision=true],[SetRotation:type=Cell,to=798,rotation=0]]
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 18
+LEGAL MOVES LIST SIZE = 20
+LEGAL MOVES LIST SIZE = 22
+LEGAL MOVES LIST SIZE = 28
+winner=1
+endtype=NaturalEnd
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.1.15

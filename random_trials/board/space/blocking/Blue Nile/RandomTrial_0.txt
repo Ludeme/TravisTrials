@@ -1,0 +1,14 @@
+game=../Common/res/lud/board/space/blocking/Blue Nile.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-37,-37,98,36,79,-116,89,33
+Move=[Move:mover=1,from=32,to=32,actions=[Add:type=Cell,to=32,what=1,decision=true]]
+Move=[Move:mover=2,from=33,to=33,actions=[Add:type=Cell,to=33,what=1,decision=true]]
+Move=[Move:mover=1,from=34,to=34,actions=[Add:type=Cell,to=34,what=1,decision=true]]
+LEGAL MOVES LIST SIZE = 61
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 3
+winner=1
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.0.4

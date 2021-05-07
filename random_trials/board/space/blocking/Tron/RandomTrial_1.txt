@@ -1,0 +1,26 @@
+game=../Common/res/lud/board/space/blocking/Tron.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=87,47,112,-109,60,-81,-41,28
+Move=[Move:mover=0,from=44,to=44,actions=[Add:type=Cell,to=44,what=1]]
+Move=[Move:mover=0,from=55,to=55,actions=[Add:type=Cell,to=55,what=2]]
+Move=[Move:mover=1,from=44,to=54,actions=[Move:typeFrom=Cell,from=44,typeTo=Cell,to=54,decision=true],[Add:type=Cell,to=44,what=3]]
+Move=[Move:mover=2,from=55,to=56,actions=[Move:typeFrom=Cell,from=55,typeTo=Cell,to=56,decision=true],[Add:type=Cell,to=55,what=4]]
+Move=[Move:mover=1,from=54,to=53,actions=[Move:typeFrom=Cell,from=54,typeTo=Cell,to=53,decision=true],[Add:type=Cell,to=54,what=3]]
+Move=[Move:mover=2,from=56,to=46,actions=[Move:typeFrom=Cell,from=56,typeTo=Cell,to=46,decision=true],[Add:type=Cell,to=56,what=4]]
+Move=[Move:mover=1,from=53,to=52,actions=[Move:typeFrom=Cell,from=53,typeTo=Cell,to=52,decision=true],[Add:type=Cell,to=53,what=3]]
+Move=[Move:mover=2,from=46,to=45,actions=[Move:typeFrom=Cell,from=46,typeTo=Cell,to=45,decision=true],[Add:type=Cell,to=46,what=4]]
+Move=[Move:mover=1,from=52,to=62,actions=[Move:typeFrom=Cell,from=52,typeTo=Cell,to=62,decision=true],[Add:type=Cell,to=52,what=3]]
+Move=[Move:mover=2,from=45,to=46,actions=[Trigger:event=Collision,player=2],[Move:typeFrom=Cell,from=45,typeTo=Cell,to=46,decision=true],[Add:type=Cell,to=45,what=4]]
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+winner=1
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.0.4

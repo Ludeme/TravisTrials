@@ -1,0 +1,46 @@
+game=../Common/res/lud/board/war/shogi/Kyoto Shogi.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=65,63,-116,-114,58,-25,-76,110
+Move=[Move:mover=0,from=2,to=2,actions=[Add:type=Cell,to=2,what=1]]
+Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Cell,to=0,what=17]]
+Move=[Move:mover=0,from=1,to=1,actions=[Add:type=Cell,to=1,what=5]]
+Move=[Move:mover=0,from=3,to=3,actions=[Add:type=Cell,to=3,what=15]]
+Move=[Move:mover=0,from=4,to=4,actions=[Add:type=Cell,to=4,what=3]]
+Move=[Move:mover=0,from=22,to=22,actions=[Add:type=Cell,to=22,what=2]]
+Move=[Move:mover=0,from=24,to=24,actions=[Add:type=Cell,to=24,what=18]]
+Move=[Move:mover=0,from=23,to=23,actions=[Add:type=Cell,to=23,what=6]]
+Move=[Move:mover=0,from=21,to=21,actions=[Add:type=Cell,to=21,what=16]]
+Move=[Move:mover=0,from=20,to=20,actions=[Add:type=Cell,to=20,what=4]]
+Move=[Move:mover=1,from=4,to=9,actions=[Move:typeFrom=Cell,from=4,typeTo=Cell,to=9,decision=true],[Promote:type=Cell,to=9,what=7]]
+Move=[Move:mover=2,from=23,to=17,actions=[Move:typeFrom=Cell,from=23,typeTo=Cell,to=17,decision=true],[Promote:type=Cell,to=17,what=10]]
+Move=[Move:mover=1,from=9,to=19,actions=[Move:typeFrom=Cell,from=9,typeTo=Cell,to=19,decision=true],[Promote:type=Cell,to=19,what=3]]
+Move=[Move:mover=2,from=22,to=16,actions=[Move:typeFrom=Cell,from=22,typeTo=Cell,to=16,decision=true]]
+Move=[Move:mover=1,from=3,to=4,actions=[Move:typeFrom=Cell,from=3,typeTo=Cell,to=4,decision=true],[Promote:type=Cell,to=4,what=11]]
+Move=[Move:mover=2,from=17,to=23,actions=[Move:typeFrom=Cell,from=17,typeTo=Cell,to=23,decision=true],[Promote:type=Cell,to=23,what=6]]
+Move=[Move:mover=1,from=1,to=5,actions=[Move:typeFrom=Cell,from=1,typeTo=Cell,to=5,decision=true],[Promote:type=Cell,to=5,what=9]]
+Move=[Move:mover=2,from=23,to=17,actions=[Move:typeFrom=Cell,from=23,typeTo=Cell,to=17,decision=true],[Promote:type=Cell,to=17,what=10]]
+Move=[Move:mover=1,from=2,to=1,actions=[Move:typeFrom=Cell,from=2,typeTo=Cell,to=1,decision=true]]
+Move=[Move:mover=2,from=16,to=12,actions=[Move:typeFrom=Cell,from=16,typeTo=Cell,to=12,decision=true]]
+Move=[Move:mover=1,from=0,to=6,actions=[Move:typeFrom=Cell,from=0,typeTo=Cell,to=6,decision=true],[Promote:type=Cell,to=6,what=13]]
+Move=[Move:mover=2,from=21,to=15,actions=[Move:typeFrom=Cell,from=21,typeTo=Cell,to=15,decision=true],[Promote:type=Cell,to=15,what=12]]
+Move=[Move:mover=1,from=19,to=24,actions=[Add:type=Cell,to=28,what=17],[Move:typeFrom=Cell,from=19,typeTo=Cell,to=24,decision=true],[Promote:type=Cell,to=24,what=7]]
+Move=[Move:mover=2,from=15,to=6,actions=[Add:type=Cell,to=32,what=18],[Move:typeFrom=Cell,from=15,levelFrom=0,typeTo=Cell,to=6,decision=true],[Promote:type=Cell,to=6,what=16]]
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 19
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 13
+LEGAL MOVES LIST SIZE = 16
+LEGAL MOVES LIST SIZE = 11
+LEGAL MOVES LIST SIZE = 13
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 15
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 9
+LEGAL MOVES LIST SIZE = 9
+winner=2
+rankings=0.0,2.0,1.0
+SANDBOX=false
+LUDII_VERSION=1.0.5

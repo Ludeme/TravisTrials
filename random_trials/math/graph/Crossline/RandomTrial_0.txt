@@ -1,0 +1,40 @@
+game=../Common/res/lud/math/graph/Crossline.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-57,-4,74,0,80,64,-15,106
+Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Edge,to=0,what=3]]
+Move=[Move:mover=0,from=1,to=1,actions=[Add:type=Edge,to=1,what=3]]
+Move=[Move:mover=0,from=2,to=2,actions=[Add:type=Edge,to=2,what=3]]
+Move=[Move:mover=0,from=3,to=3,actions=[Add:type=Edge,to=3,what=3]]
+Move=[Move:mover=0,from=4,to=4,actions=[Add:type=Edge,to=4,what=3]]
+Move=[Move:mover=0,from=5,to=5,actions=[Add:type=Edge,to=5,what=3]]
+Move=[Move:mover=0,from=6,to=6,actions=[Add:type=Edge,to=6,what=3]]
+Move=[Move:mover=0,from=7,to=7,actions=[Add:type=Edge,to=7,what=3]]
+Move=[Move:mover=0,from=8,to=8,actions=[Add:type=Edge,to=8,what=3]]
+Move=[Move:mover=0,from=9,to=9,actions=[Add:type=Edge,to=9,what=3]]
+Move=[Move:mover=1,from=18,to=18,actions=[Add:type=Edge,to=18,what=1,decision=true]]
+Move=[Move:mover=2,from=11,to=11,actions=[Add:type=Edge,to=11,what=2,decision=true]]
+Move=[Move:mover=1,from=22,to=22,actions=[Add:type=Edge,to=22,what=1,decision=true]]
+Move=[Move:mover=2,from=21,to=21,actions=[Add:type=Edge,to=21,what=2,decision=true]]
+Move=[Move:mover=1,from=40,to=40,actions=[Add:type=Edge,to=40,what=1,decision=true]]
+Move=[Move:mover=2,from=42,to=42,actions=[Add:type=Edge,to=42,what=2,decision=true]]
+Move=[Move:mover=1,from=23,to=23,actions=[Add:type=Edge,to=23,what=1,decision=true]]
+Move=[Move:mover=2,from=39,to=39,actions=[Add:type=Edge,to=39,what=2,decision=true]]
+Move=[Move:mover=1,from=30,to=30,actions=[Add:type=Edge,to=30,what=1,decision=true]]
+Move=[Move:mover=2,from=16,to=16,actions=[Add:type=Edge,to=16,what=2,decision=true]]
+Move=[Move:mover=1,from=19,to=19,actions=[Add:type=Edge,to=19,what=1,decision=true]]
+LEGAL MOVES LIST SIZE = 35
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 17
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
+winner=1
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.0.4

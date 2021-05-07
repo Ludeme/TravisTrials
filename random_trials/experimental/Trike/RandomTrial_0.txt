@@ -1,0 +1,58 @@
+game=../Common/res/lud/experimental/Trike.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-80,105,122,4,-54,-66,-59,99
+Move=[Move:mover=1,from=10,to=10,actions=[Add:type=Cell,to=10,what=1,decision=true],[SetTemp:temp=10]]
+Move=[Move:mover=2,from=35,to=35,actions=[Add:type=Cell,to=35,what=2,decision=true],[SetTemp:temp=35]]
+Move=[Move:mover=1,from=75,to=75,actions=[Add:type=Cell,to=75,what=1,decision=true],[SetTemp:temp=75]]
+Move=[Move:mover=2,from=69,to=69,actions=[Add:type=Cell,to=69,what=2,decision=true],[SetTemp:temp=69]]
+Move=[Move:mover=1,from=62,to=62,actions=[Add:type=Cell,to=62,what=1,decision=true],[SetTemp:temp=62]]
+Move=[Move:mover=2,from=45,to=45,actions=[Add:type=Cell,to=45,what=2,decision=true],[SetTemp:temp=45]]
+Move=[Move:mover=1,from=43,to=43,actions=[Add:type=Cell,to=43,what=1,decision=true],[SetTemp:temp=43]]
+Move=[Move:mover=2,from=39,to=39,actions=[Add:type=Cell,to=39,what=2,decision=true],[SetTemp:temp=39]]
+Move=[Move:mover=1,from=48,to=48,actions=[Add:type=Cell,to=48,what=1,decision=true],[SetTemp:temp=48]]
+Move=[Move:mover=2,from=54,to=54,actions=[Add:type=Cell,to=54,what=2,decision=true],[SetTemp:temp=54]]
+Move=[Move:mover=1,from=49,to=49,actions=[Add:type=Cell,to=49,what=1,decision=true],[SetTemp:temp=49]]
+Move=[Move:mover=2,from=73,to=73,actions=[Add:type=Cell,to=73,what=2,decision=true],[SetTemp:temp=73]]
+Move=[Move:mover=1,from=85,to=85,actions=[Add:type=Cell,to=85,what=1,decision=true],[SetTemp:temp=85]]
+Move=[Move:mover=2,from=81,to=81,actions=[Add:type=Cell,to=81,what=2,decision=true],[SetTemp:temp=81]]
+Move=[Move:mover=1,from=84,to=84,actions=[Add:type=Cell,to=84,what=1,decision=true],[SetTemp:temp=84]]
+Move=[Move:mover=2,from=89,to=89,actions=[Add:type=Cell,to=89,what=2,decision=true],[SetTemp:temp=89]]
+Move=[Move:mover=1,from=47,to=47,actions=[Add:type=Cell,to=47,what=1,decision=true],[SetTemp:temp=47]]
+Move=[Move:mover=2,from=86,to=86,actions=[Add:type=Cell,to=86,what=2,decision=true],[SetTemp:temp=86]]
+Move=[Move:mover=1,from=44,to=44,actions=[Add:type=Cell,to=44,what=1,decision=true],[SetTemp:temp=44]]
+Move=[Move:mover=2,from=33,to=33,actions=[Add:type=Cell,to=33,what=2,decision=true],[SetTemp:temp=33]]
+Move=[Move:mover=1,from=34,to=34,actions=[Add:type=Cell,to=34,what=1,decision=true],[SetTemp:temp=34]]
+Move=[Move:mover=2,from=23,to=23,actions=[Add:type=Cell,to=23,what=2,decision=true],[SetTemp:temp=23]]
+Move=[Move:mover=1,from=24,to=24,actions=[Add:type=Cell,to=24,what=1,decision=true],[SetTemp:temp=24]]
+Move=[Move:mover=2,from=12,to=12,actions=[Add:type=Cell,to=12,what=2,decision=true],[SetTemp:temp=12]]
+Move=[Move:mover=1,from=11,to=11,actions=[Add:type=Cell,to=11,what=1,decision=true],[SetTemp:temp=11]]
+LEGAL MOVES LIST SIZE = 91
+LEGAL MOVES LIST SIZE = 25
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 15
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 13
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 20
+LEGAL MOVES LIST SIZE = 9
+LEGAL MOVES LIST SIZE = 16
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 16
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 16
+LEGAL MOVES LIST SIZE = 17
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
+winner=1
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.0.4

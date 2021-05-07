@@ -1,0 +1,67 @@
+game=../Common/res/lud/board/space/connection/Trax.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=98,77,-28,32,-97,-9,-91,-103
+Move=[Move:mover=0,from=1681,to=1681,actions=[Add:type=Cell,to=1681,what=1]]
+Move=[Move:mover=0,from=1682,to=1682,actions=[Add:type=Cell,to=1682,what=2]]
+Move=[Move:mover=1,from=1681,to=840,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=840,decision=true],[SetRotation:type=Cell,to=840,rotation=2]]
+Move=[Move:mover=2,from=1682,to=799,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=799,decision=true],[SetRotation:type=Cell,to=799,rotation=4]]
+Move=[Move:mover=1,from=1681,to=841,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=841,decision=true],[SetRotation:type=Cell,to=841,rotation=2],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=800,decision=true],[SetRotation:type=Cell,to=800,rotation=2]]
+Move=[Move:mover=2,from=1682,to=758,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=758,decision=true],[SetRotation:type=Cell,to=758,rotation=0],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=759,decision=true],[SetRotation:type=Cell,to=759,rotation=6]]
+Move=[Move:mover=1,from=1681,to=881,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=881,decision=true],[SetRotation:type=Cell,to=881,rotation=2]]
+Move=[Move:mover=2,from=1682,to=882,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=882,decision=true],[SetRotation:type=Cell,to=882,rotation=6]]
+Move=[Move:mover=1,from=1682,to=718,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=718,decision=true],[SetRotation:type=Cell,to=718,rotation=2],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=717,decision=true],[SetRotation:type=Cell,to=717,rotation=4]]
+Move=[Move:mover=2,from=1681,to=923,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=923,decision=true],[SetRotation:type=Cell,to=923,rotation=0],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=922,decision=true],[SetRotation:type=Cell,to=922,rotation=6]]
+Move=[Move:mover=1,from=1682,to=757,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=757,decision=true],[SetRotation:type=Cell,to=757,rotation=6],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=798,decision=true],[SetRotation:type=Cell,to=798,rotation=2]]
+Move=[Move:mover=2,from=1681,to=963,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=963,decision=true],[SetRotation:type=Cell,to=963,rotation=0]]
+Move=[Move:mover=1,from=1681,to=924,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=924,decision=true],[SetRotation:type=Cell,to=924,rotation=0]]
+Move=[Move:mover=2,from=1682,to=797,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=797,decision=true],[SetRotation:type=Cell,to=797,rotation=4],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=756,decision=true],[SetRotation:type=Cell,to=756,rotation=0]]
+Move=[Move:mover=1,from=1681,to=880,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=880,decision=true],[SetRotation:type=Cell,to=880,rotation=2],[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=839,decision=true],[SetRotation:type=Cell,to=839,rotation=2]]
+Move=[Move:mover=2,from=1682,to=842,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=842,decision=true],[SetRotation:type=Cell,to=842,rotation=4],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=801,decision=true],[SetRotation:type=Cell,to=801,rotation=6],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=883,decision=true],[SetRotation:type=Cell,to=883,rotation=0],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=760,decision=true],[SetRotation:type=Cell,to=760,rotation=2],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=719,decision=true],[SetRotation:type=Cell,to=719,rotation=6]]
+Move=[Move:mover=1,from=1682,to=884,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=884,decision=true],[SetRotation:type=Cell,to=884,rotation=4],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=925,decision=true],[SetRotation:type=Cell,to=925,rotation=0]]
+Move=[Move:mover=2,from=1681,to=715,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=715,decision=true],[SetRotation:type=Cell,to=715,rotation=2],[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=716,decision=true],[SetRotation:type=Cell,to=716,rotation=2]]
+Move=[Move:mover=1,from=1682,to=965,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=965,decision=true],[SetRotation:type=Cell,to=965,rotation=2],[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=964,decision=true],[SetRotation:type=Cell,to=964,rotation=0],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=966,decision=true],[SetRotation:type=Cell,to=966,rotation=4]]
+Move=[Move:mover=2,from=1682,to=1005,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1005,decision=true],[SetRotation:type=Cell,to=1005,rotation=4],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1004,decision=true],[SetRotation:type=Cell,to=1004,rotation=2],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1006,decision=true],[SetRotation:type=Cell,to=1006,rotation=0]]
+Move=[Move:mover=1,from=1682,to=755,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=755,decision=true],[SetRotation:type=Cell,to=755,rotation=6],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=796,decision=true],[SetRotation:type=Cell,to=796,rotation=2]]
+Move=[Move:mover=2,from=1681,to=1046,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=1046,decision=true],[SetRotation:type=Cell,to=1046,rotation=2],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1047,decision=true],[SetRotation:type=Cell,to=1047,rotation=4]]
+Move=[Move:mover=1,from=1682,to=1003,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1003,decision=true],[SetRotation:type=Cell,to=1003,rotation=6],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=962,decision=true],[SetRotation:type=Cell,to=962,rotation=4],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=921,decision=true],[SetRotation:type=Cell,to=921,rotation=0]]
+Move=[Move:mover=2,from=1682,to=1048,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1048,decision=true],[SetRotation:type=Cell,to=1048,rotation=0],[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=1007,decision=true],[SetRotation:type=Cell,to=1007,rotation=2]]
+Move=[Move:mover=1,from=1682,to=1049,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1049,decision=true],[SetRotation:type=Cell,to=1049,rotation=6]]
+Move=[Move:mover=2,from=1682,to=674,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=674,decision=true],[SetRotation:type=Cell,to=674,rotation=2]]
+Move=[Move:mover=1,from=1682,to=1088,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1088,decision=true],[SetRotation:type=Cell,to=1088,rotation=0],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1087,decision=true],[SetRotation:type=Cell,to=1087,rotation=6],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1089,decision=true],[SetRotation:type=Cell,to=1089,rotation=4]]
+Move=[Move:mover=2,from=1682,to=795,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=795,decision=true],[SetRotation:type=Cell,to=795,rotation=6]]
+Move=[Move:mover=1,from=1681,to=885,actions=[Copy:typeFrom=Cell,from=1681,levelFrom=0,typeTo=Cell,to=885,decision=true],[SetRotation:type=Cell,to=885,rotation=0],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=926,decision=true],[SetRotation:type=Cell,to=926,rotation=4],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=967,decision=true],[SetRotation:type=Cell,to=967,rotation=0],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1008,decision=true],[SetRotation:type=Cell,to=1008,rotation=4]]
+Move=[Move:mover=2,from=1682,to=1009,actions=[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1009,decision=true],[SetRotation:type=Cell,to=1009,rotation=2],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=968,decision=true],[SetRotation:type=Cell,to=968,rotation=6],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=1050,decision=true],[SetRotation:type=Cell,to=1050,rotation=0],[Copy:typeFrom=Cell,from=1682,levelFrom=0,typeTo=Cell,to=927,decision=true],[SetRotation:type=Cell,to=927,rotation=2]]
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 18
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 30
+LEGAL MOVES LIST SIZE = 32
+LEGAL MOVES LIST SIZE = 36
+LEGAL MOVES LIST SIZE = 42
+LEGAL MOVES LIST SIZE = 48
+LEGAL MOVES LIST SIZE = 46
+LEGAL MOVES LIST SIZE = 48
+LEGAL MOVES LIST SIZE = 50
+LEGAL MOVES LIST SIZE = 56
+LEGAL MOVES LIST SIZE = 52
+LEGAL MOVES LIST SIZE = 56
+LEGAL MOVES LIST SIZE = 58
+LEGAL MOVES LIST SIZE = 62
+LEGAL MOVES LIST SIZE = 66
+LEGAL MOVES LIST SIZE = 68
+LEGAL MOVES LIST SIZE = 70
+LEGAL MOVES LIST SIZE = 72
+LEGAL MOVES LIST SIZE = 76
+LEGAL MOVES LIST SIZE = 80
+LEGAL MOVES LIST SIZE = 82
+LEGAL MOVES LIST SIZE = 84
+LEGAL MOVES LIST SIZE = 86
+LEGAL MOVES LIST SIZE = 88
+LEGAL MOVES LIST SIZE = 92
+winner=2
+endtype=NaturalEnd
+rankings=0.0,2.0,1.0
+SANDBOX=false
+LUDII_VERSION=1.1.15

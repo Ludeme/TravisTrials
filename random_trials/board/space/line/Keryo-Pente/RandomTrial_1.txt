@@ -1,0 +1,285 @@
+game=../Common/res/lud/board/space/line/Keryo-Pente.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=9,-38,-106,92,1,90,39,15
+Move=[Move:mover=0,actions=[SetScore:player=1,score=0]]
+Move=[Move:mover=0,actions=[SetScore:player=2,score=0]]
+Move=[Move:mover=1,from=180,to=180,actions=[Add:type=Vertex,to=180,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=203,to=203,actions=[Add:type=Vertex,to=203,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=198,to=198,actions=[Add:type=Vertex,to=198,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=8,to=8,actions=[Add:type=Vertex,to=8,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=188,to=188,actions=[Add:type=Vertex,to=188,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=323,to=323,actions=[Add:type=Vertex,to=323,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=227,to=227,actions=[Add:type=Vertex,to=227,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=155,to=155,actions=[Add:type=Vertex,to=155,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=138,to=138,actions=[Add:type=Vertex,to=138,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=297,to=297,actions=[Add:type=Vertex,to=297,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=74,to=74,actions=[Add:type=Vertex,to=74,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=50,to=50,actions=[Add:type=Vertex,to=50,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=360,to=360,actions=[Add:type=Vertex,to=360,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=19,to=19,actions=[Add:type=Vertex,to=19,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=293,to=293,actions=[Add:type=Vertex,to=293,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=81,to=81,actions=[Add:type=Vertex,to=81,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=123,to=123,actions=[Add:type=Vertex,to=123,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=59,to=59,actions=[Add:type=Vertex,to=59,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=120,to=120,actions=[Add:type=Vertex,to=120,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=235,to=235,actions=[Add:type=Vertex,to=235,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=35,to=35,actions=[Add:type=Vertex,to=35,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=13,to=13,actions=[Add:type=Vertex,to=13,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=141,to=141,actions=[Add:type=Vertex,to=141,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=163,to=163,actions=[Add:type=Vertex,to=163,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=174,to=174,actions=[Add:type=Vertex,to=174,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=246,to=246,actions=[Add:type=Vertex,to=246,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=306,to=306,actions=[Add:type=Vertex,to=306,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=318,to=318,actions=[Add:type=Vertex,to=318,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=94,to=94,actions=[Add:type=Vertex,to=94,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=281,to=281,actions=[Add:type=Vertex,to=281,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=264,to=264,actions=[Add:type=Vertex,to=264,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=350,to=350,actions=[Add:type=Vertex,to=350,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=286,to=286,actions=[Add:type=Vertex,to=286,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=196,to=196,actions=[Add:type=Vertex,to=196,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=215,to=215,actions=[Add:type=Vertex,to=215,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=184,to=184,actions=[Add:type=Vertex,to=184,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=303,to=303,actions=[Add:type=Vertex,to=303,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=5,to=5,actions=[Add:type=Vertex,to=5,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=97,to=97,actions=[Add:type=Vertex,to=97,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=358,to=358,actions=[Add:type=Vertex,to=358,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=47,to=47,actions=[Add:type=Vertex,to=47,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=150,to=150,actions=[Add:type=Vertex,to=150,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=156,to=156,actions=[Add:type=Vertex,to=156,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=346,to=346,actions=[Add:type=Vertex,to=346,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=72,to=72,actions=[Add:type=Vertex,to=72,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=51,to=51,actions=[Add:type=Vertex,to=51,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=308,to=308,actions=[Add:type=Vertex,to=308,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=258,to=258,actions=[Add:type=Vertex,to=258,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=133,to=133,actions=[Add:type=Vertex,to=133,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=110,to=110,actions=[Add:type=Vertex,to=110,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=137,to=137,actions=[Add:type=Vertex,to=137,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=309,to=309,actions=[Add:type=Vertex,to=309,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=10,to=10,actions=[Add:type=Vertex,to=10,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=228,to=228,actions=[Add:type=Vertex,to=228,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=269,to=269,actions=[Add:type=Vertex,to=269,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=341,to=341,actions=[Add:type=Vertex,to=341,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=230,to=230,actions=[Add:type=Vertex,to=230,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=16,to=16,actions=[Add:type=Vertex,to=16,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=355,to=355,actions=[Add:type=Vertex,to=355,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=149,to=149,actions=[Add:type=Vertex,to=149,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=186,to=186,actions=[Add:type=Vertex,to=186,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=112,to=112,actions=[Add:type=Vertex,to=112,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=305,to=305,actions=[Add:type=Vertex,to=305,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=265,to=265,actions=[Add:type=Vertex,to=265,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=322,to=322,actions=[Add:type=Vertex,to=322,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=197,to=197,actions=[Add:type=Vertex,to=197,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=237,to=237,actions=[Add:type=Vertex,to=237,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=29,to=29,actions=[Add:type=Vertex,to=29,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=172,to=172,actions=[Add:type=Vertex,to=172,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=151,to=151,actions=[Add:type=Vertex,to=151,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=276,to=276,actions=[Add:type=Vertex,to=276,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=311,to=311,actions=[Add:type=Vertex,to=311,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=129,to=129,actions=[Add:type=Vertex,to=129,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=115,to=115,actions=[Add:type=Vertex,to=115,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=229,to=229,actions=[Add:type=Vertex,to=229,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=23,to=23,actions=[Add:type=Vertex,to=23,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=88,to=88,actions=[Add:type=Vertex,to=88,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=356,to=356,actions=[Add:type=Vertex,to=356,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=238,to=238,actions=[Add:type=Vertex,to=238,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=214,to=214,actions=[Add:type=Vertex,to=214,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=55,to=55,actions=[Add:type=Vertex,to=55,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=125,to=125,actions=[Add:type=Vertex,to=125,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=32,to=32,actions=[Add:type=Vertex,to=32,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=124,to=124,actions=[Add:type=Vertex,to=124,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=190,to=190,actions=[Add:type=Vertex,to=190,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=63,to=63,actions=[Add:type=Vertex,to=63,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=209,to=209,actions=[Add:type=Vertex,to=209,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=295,to=295,actions=[Add:type=Vertex,to=295,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=57,to=57,actions=[Add:type=Vertex,to=57,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=117,to=117,actions=[Add:type=Vertex,to=117,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=255,to=255,actions=[Add:type=Vertex,to=255,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=79,to=79,actions=[Add:type=Vertex,to=79,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=21,to=21,actions=[Add:type=Vertex,to=21,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=335,to=335,actions=[Add:type=Vertex,to=335,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=312,to=312,actions=[Add:type=Vertex,to=312,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=253,to=253,actions=[Add:type=Vertex,to=253,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=80,to=80,actions=[Add:type=Vertex,to=80,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=189,to=189,actions=[Add:type=Vertex,to=189,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=273,to=273,actions=[Add:type=Vertex,to=273,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=279,to=279,actions=[Add:type=Vertex,to=279,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=104,to=104,actions=[Add:type=Vertex,to=104,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=71,to=71,actions=[Add:type=Vertex,to=71,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=26,to=26,actions=[Add:type=Vertex,to=26,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=289,to=289,actions=[Add:type=Vertex,to=289,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=113,to=113,actions=[Add:type=Vertex,to=113,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=128,to=128,actions=[Add:type=Vertex,to=128,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=245,to=245,actions=[Add:type=Vertex,to=245,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=345,to=345,actions=[Add:type=Vertex,to=345,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=119,to=119,actions=[Add:type=Vertex,to=119,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=285,to=285,actions=[Add:type=Vertex,to=285,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=48,to=48,actions=[Add:type=Vertex,to=48,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=126,to=126,actions=[Add:type=Vertex,to=126,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=148,to=148,actions=[Add:type=Vertex,to=148,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=224,to=224,actions=[Add:type=Vertex,to=224,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=11,to=11,actions=[Add:type=Vertex,to=11,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=199,to=199,actions=[Add:type=Vertex,to=199,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=219,to=219,actions=[Add:type=Vertex,to=219,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=288,to=288,actions=[Add:type=Vertex,to=288,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=193,to=193,actions=[Add:type=Vertex,to=193,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=164,to=164,actions=[Add:type=Vertex,to=164,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=351,to=351,actions=[Add:type=Vertex,to=351,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=347,to=347,actions=[Add:type=Vertex,to=347,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=53,to=53,actions=[Add:type=Vertex,to=53,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=0,to=0,actions=[Add:type=Vertex,to=0,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=165,to=165,actions=[Add:type=Vertex,to=165,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=319,to=319,actions=[Add:type=Vertex,to=319,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=339,to=339,actions=[Add:type=Vertex,to=339,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=171,to=171,actions=[Add:type=Vertex,to=171,level=0,what=2,decision=true],[Remove:type=Vertex,to=190],[SetScore:player=2,score=1,add=true],[Remove:type=Vertex,to=209],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=200,to=200,actions=[Add:type=Vertex,to=200,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=130,to=130,actions=[Add:type=Vertex,to=130,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=231,to=231,actions=[Add:type=Vertex,to=231,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=40,to=40,actions=[Add:type=Vertex,to=40,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=239,to=239,actions=[Add:type=Vertex,to=239,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=136,to=136,actions=[Add:type=Vertex,to=136,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=359,to=359,actions=[Add:type=Vertex,to=359,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=44,to=44,actions=[Add:type=Vertex,to=44,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=102,to=102,actions=[Add:type=Vertex,to=102,level=0,what=1,decision=true]]
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 360
+LEGAL MOVES LIST SIZE = 359
+LEGAL MOVES LIST SIZE = 358
+LEGAL MOVES LIST SIZE = 357
+LEGAL MOVES LIST SIZE = 356
+LEGAL MOVES LIST SIZE = 355
+LEGAL MOVES LIST SIZE = 354
+LEGAL MOVES LIST SIZE = 353
+LEGAL MOVES LIST SIZE = 352
+LEGAL MOVES LIST SIZE = 351
+LEGAL MOVES LIST SIZE = 350
+LEGAL MOVES LIST SIZE = 349
+LEGAL MOVES LIST SIZE = 348
+LEGAL MOVES LIST SIZE = 347
+LEGAL MOVES LIST SIZE = 346
+LEGAL MOVES LIST SIZE = 345
+LEGAL MOVES LIST SIZE = 344
+LEGAL MOVES LIST SIZE = 343
+LEGAL MOVES LIST SIZE = 342
+LEGAL MOVES LIST SIZE = 341
+LEGAL MOVES LIST SIZE = 340
+LEGAL MOVES LIST SIZE = 339
+LEGAL MOVES LIST SIZE = 338
+LEGAL MOVES LIST SIZE = 337
+LEGAL MOVES LIST SIZE = 336
+LEGAL MOVES LIST SIZE = 335
+LEGAL MOVES LIST SIZE = 334
+LEGAL MOVES LIST SIZE = 333
+LEGAL MOVES LIST SIZE = 332
+LEGAL MOVES LIST SIZE = 331
+LEGAL MOVES LIST SIZE = 330
+LEGAL MOVES LIST SIZE = 329
+LEGAL MOVES LIST SIZE = 328
+LEGAL MOVES LIST SIZE = 327
+LEGAL MOVES LIST SIZE = 326
+LEGAL MOVES LIST SIZE = 325
+LEGAL MOVES LIST SIZE = 324
+LEGAL MOVES LIST SIZE = 323
+LEGAL MOVES LIST SIZE = 322
+LEGAL MOVES LIST SIZE = 321
+LEGAL MOVES LIST SIZE = 320
+LEGAL MOVES LIST SIZE = 319
+LEGAL MOVES LIST SIZE = 318
+LEGAL MOVES LIST SIZE = 317
+LEGAL MOVES LIST SIZE = 316
+LEGAL MOVES LIST SIZE = 315
+LEGAL MOVES LIST SIZE = 314
+LEGAL MOVES LIST SIZE = 313
+LEGAL MOVES LIST SIZE = 312
+LEGAL MOVES LIST SIZE = 311
+LEGAL MOVES LIST SIZE = 310
+LEGAL MOVES LIST SIZE = 309
+LEGAL MOVES LIST SIZE = 308
+LEGAL MOVES LIST SIZE = 307
+LEGAL MOVES LIST SIZE = 306
+LEGAL MOVES LIST SIZE = 305
+LEGAL MOVES LIST SIZE = 304
+LEGAL MOVES LIST SIZE = 303
+LEGAL MOVES LIST SIZE = 302
+LEGAL MOVES LIST SIZE = 301
+LEGAL MOVES LIST SIZE = 300
+LEGAL MOVES LIST SIZE = 299
+LEGAL MOVES LIST SIZE = 298
+LEGAL MOVES LIST SIZE = 297
+LEGAL MOVES LIST SIZE = 296
+LEGAL MOVES LIST SIZE = 295
+LEGAL MOVES LIST SIZE = 294
+LEGAL MOVES LIST SIZE = 293
+LEGAL MOVES LIST SIZE = 292
+LEGAL MOVES LIST SIZE = 291
+LEGAL MOVES LIST SIZE = 290
+LEGAL MOVES LIST SIZE = 289
+LEGAL MOVES LIST SIZE = 288
+LEGAL MOVES LIST SIZE = 287
+LEGAL MOVES LIST SIZE = 286
+LEGAL MOVES LIST SIZE = 285
+LEGAL MOVES LIST SIZE = 284
+LEGAL MOVES LIST SIZE = 283
+LEGAL MOVES LIST SIZE = 282
+LEGAL MOVES LIST SIZE = 281
+LEGAL MOVES LIST SIZE = 280
+LEGAL MOVES LIST SIZE = 279
+LEGAL MOVES LIST SIZE = 278
+LEGAL MOVES LIST SIZE = 277
+LEGAL MOVES LIST SIZE = 276
+LEGAL MOVES LIST SIZE = 275
+LEGAL MOVES LIST SIZE = 274
+LEGAL MOVES LIST SIZE = 273
+LEGAL MOVES LIST SIZE = 272
+LEGAL MOVES LIST SIZE = 271
+LEGAL MOVES LIST SIZE = 270
+LEGAL MOVES LIST SIZE = 269
+LEGAL MOVES LIST SIZE = 268
+LEGAL MOVES LIST SIZE = 267
+LEGAL MOVES LIST SIZE = 266
+LEGAL MOVES LIST SIZE = 265
+LEGAL MOVES LIST SIZE = 264
+LEGAL MOVES LIST SIZE = 263
+LEGAL MOVES LIST SIZE = 262
+LEGAL MOVES LIST SIZE = 261
+LEGAL MOVES LIST SIZE = 260
+LEGAL MOVES LIST SIZE = 259
+LEGAL MOVES LIST SIZE = 258
+LEGAL MOVES LIST SIZE = 257
+LEGAL MOVES LIST SIZE = 256
+LEGAL MOVES LIST SIZE = 255
+LEGAL MOVES LIST SIZE = 254
+LEGAL MOVES LIST SIZE = 253
+LEGAL MOVES LIST SIZE = 252
+LEGAL MOVES LIST SIZE = 251
+LEGAL MOVES LIST SIZE = 250
+LEGAL MOVES LIST SIZE = 249
+LEGAL MOVES LIST SIZE = 248
+LEGAL MOVES LIST SIZE = 247
+LEGAL MOVES LIST SIZE = 246
+LEGAL MOVES LIST SIZE = 245
+LEGAL MOVES LIST SIZE = 244
+LEGAL MOVES LIST SIZE = 243
+LEGAL MOVES LIST SIZE = 242
+LEGAL MOVES LIST SIZE = 241
+LEGAL MOVES LIST SIZE = 240
+LEGAL MOVES LIST SIZE = 239
+LEGAL MOVES LIST SIZE = 238
+LEGAL MOVES LIST SIZE = 237
+LEGAL MOVES LIST SIZE = 236
+LEGAL MOVES LIST SIZE = 235
+LEGAL MOVES LIST SIZE = 234
+LEGAL MOVES LIST SIZE = 235
+LEGAL MOVES LIST SIZE = 234
+LEGAL MOVES LIST SIZE = 233
+LEGAL MOVES LIST SIZE = 232
+LEGAL MOVES LIST SIZE = 231
+LEGAL MOVES LIST SIZE = 230
+LEGAL MOVES LIST SIZE = 229
+LEGAL MOVES LIST SIZE = 228
+LEGAL MOVES LIST SIZE = 227
+winner=1
+endtype=NaturalEnd
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.1.15

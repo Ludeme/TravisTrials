@@ -1,0 +1,18 @@
+game=../Common/res/lud/board/space/line/Tic-Tac-Toe.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=55,84,91,-47,-93,62,4,45
+Move=[Move:mover=1,from=2,to=2,actions=[Add:type=Cell,to=2,what=1,decision=true]]
+Move=[Move:mover=2,from=3,to=3,actions=[Add:type=Cell,to=3,what=2,decision=true]]
+Move=[Move:mover=1,from=4,to=4,actions=[Add:type=Cell,to=4,what=1,decision=true]]
+Move=[Move:mover=2,from=1,to=1,actions=[Add:type=Cell,to=1,what=2,decision=true]]
+Move=[Move:mover=1,from=6,to=6,actions=[Add:type=Cell,to=6,what=1,decision=true]]
+LEGAL MOVES LIST SIZE = 9
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 5
+winner=1
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.0.4

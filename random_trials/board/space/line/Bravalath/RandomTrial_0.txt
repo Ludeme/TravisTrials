@@ -1,0 +1,18 @@
+game=../Common/res/lud/board/space/line/Bravalath.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=32,85,-119,46,-85,120,46,-86
+Move=[Move:mover=0,from=630,to=630,actions=[Add:type=Cell,to=630,what=1]]
+Move=[Move:mover=0,from=631,to=631,actions=[Add:type=Cell,to=631,what=2]]
+Move=[Move:mover=1,from=591,to=591,actions=[Add:type=Cell,to=591,what=1,decision=true]]
+Move=[Move:mover=2,from=590,to=590,actions=[Add:type=Cell,to=590,what=2,decision=true]]
+Move=[Move:mover=1,from=671,to=671,actions=[Add:type=Cell,to=671,what=1,decision=true]]
+Move=[Move:mover=2,from=672,to=672,actions=[Add:type=Cell,to=672,what=2,decision=true]]
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 10
+LEGAL MOVES LIST SIZE = 10
+LEGAL MOVES LIST SIZE = 11
+winner=1
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.1.7

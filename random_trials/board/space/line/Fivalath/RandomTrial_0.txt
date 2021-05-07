@@ -1,0 +1,91 @@
+game=../Common/res/lud/board/space/line/Fivalath.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-124,116,-71,72,-78,112,22,88
+Move=[Move:mover=1,from=80,to=80,actions=[Add:type=Vertex,to=80,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=72,to=72,actions=[Add:type=Vertex,to=72,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=49,to=49,actions=[Add:type=Vertex,to=49,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=26,to=26,actions=[Add:type=Vertex,to=26,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=54,to=54,actions=[Add:type=Vertex,to=54,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=21,to=21,actions=[Add:type=Vertex,to=21,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=98,to=98,actions=[Add:type=Vertex,to=98,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=74,to=74,actions=[Add:type=Vertex,to=74,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=70,to=70,actions=[Add:type=Vertex,to=70,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=56,to=56,actions=[Add:type=Vertex,to=56,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=24,to=24,actions=[Add:type=Vertex,to=24,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=53,to=53,actions=[Add:type=Vertex,to=53,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=90,to=90,actions=[Add:type=Vertex,to=90,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=92,to=92,actions=[Add:type=Vertex,to=92,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=38,to=38,actions=[Add:type=Vertex,to=38,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=95,to=95,actions=[Add:type=Vertex,to=95,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=68,to=68,actions=[Add:type=Vertex,to=68,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=43,to=43,actions=[Add:type=Vertex,to=43,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=28,to=28,actions=[Add:type=Vertex,to=28,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=52,to=52,actions=[Add:type=Vertex,to=52,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=22,to=22,actions=[Add:type=Vertex,to=22,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=27,to=27,actions=[Add:type=Vertex,to=27,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=97,to=97,actions=[Add:type=Vertex,to=97,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=69,to=69,actions=[Add:type=Vertex,to=69,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=83,to=83,actions=[Add:type=Vertex,to=83,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=11,to=11,actions=[Add:type=Vertex,to=11,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=51,to=51,actions=[Add:type=Vertex,to=51,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=30,to=30,actions=[Add:type=Vertex,to=30,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=1,to=1,actions=[Add:type=Vertex,to=1,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=81,to=81,actions=[Add:type=Vertex,to=81,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=93,to=93,actions=[Add:type=Vertex,to=93,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=50,to=50,actions=[Add:type=Vertex,to=50,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=61,to=61,actions=[Add:type=Vertex,to=61,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=46,to=46,actions=[Add:type=Vertex,to=46,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=47,to=47,actions=[Add:type=Vertex,to=47,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=34,to=34,actions=[Add:type=Vertex,to=34,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=45,to=45,actions=[Add:type=Vertex,to=45,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=7,to=7,actions=[Add:type=Vertex,to=7,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=57,to=57,actions=[Add:type=Vertex,to=57,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=78,to=78,actions=[Add:type=Vertex,to=78,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=60,to=60,actions=[Add:type=Vertex,to=60,level=0,what=1,decision=true]]
+LEGAL MOVES LIST SIZE = 100
+LEGAL MOVES LIST SIZE = 99
+LEGAL MOVES LIST SIZE = 98
+LEGAL MOVES LIST SIZE = 97
+LEGAL MOVES LIST SIZE = 96
+LEGAL MOVES LIST SIZE = 95
+LEGAL MOVES LIST SIZE = 94
+LEGAL MOVES LIST SIZE = 93
+LEGAL MOVES LIST SIZE = 92
+LEGAL MOVES LIST SIZE = 91
+LEGAL MOVES LIST SIZE = 90
+LEGAL MOVES LIST SIZE = 89
+LEGAL MOVES LIST SIZE = 88
+LEGAL MOVES LIST SIZE = 87
+LEGAL MOVES LIST SIZE = 86
+LEGAL MOVES LIST SIZE = 85
+LEGAL MOVES LIST SIZE = 84
+LEGAL MOVES LIST SIZE = 83
+LEGAL MOVES LIST SIZE = 82
+LEGAL MOVES LIST SIZE = 81
+LEGAL MOVES LIST SIZE = 80
+LEGAL MOVES LIST SIZE = 79
+LEGAL MOVES LIST SIZE = 78
+LEGAL MOVES LIST SIZE = 77
+LEGAL MOVES LIST SIZE = 76
+LEGAL MOVES LIST SIZE = 75
+LEGAL MOVES LIST SIZE = 74
+LEGAL MOVES LIST SIZE = 73
+LEGAL MOVES LIST SIZE = 72
+LEGAL MOVES LIST SIZE = 71
+LEGAL MOVES LIST SIZE = 70
+LEGAL MOVES LIST SIZE = 69
+LEGAL MOVES LIST SIZE = 68
+LEGAL MOVES LIST SIZE = 67
+LEGAL MOVES LIST SIZE = 66
+LEGAL MOVES LIST SIZE = 65
+LEGAL MOVES LIST SIZE = 64
+LEGAL MOVES LIST SIZE = 63
+LEGAL MOVES LIST SIZE = 62
+LEGAL MOVES LIST SIZE = 61
+LEGAL MOVES LIST SIZE = 60
+winner=2
+endtype=NaturalEnd
+rankings=0.0,2.0,1.0
+SANDBOX=false
+LUDII_VERSION=1.1.15

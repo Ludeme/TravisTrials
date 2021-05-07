@@ -1,0 +1,86 @@
+game=../Common/res/lud/experimental/Infuse.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-75,110,90,44,79,112,19,91
+Move=[Move:mover=0,actions=[SetScore:player=1,score=0]]
+Move=[Move:mover=0,actions=[SetScore:player=2,score=0]]
+Move=[Move:mover=1,from=44,to=44,actions=[Add:type=Cell,to=44,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=8,to=8,actions=[Add:type=Cell,to=8,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=13,to=13,actions=[Add:type=Cell,to=13,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=24,to=24,actions=[Add:type=Cell,to=24,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=3,to=3,actions=[Add:type=Cell,to=3,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=56,to=56,actions=[Add:type=Cell,to=56,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=25,to=25,actions=[Add:type=Cell,to=25,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=26,to=26,actions=[Add:type=Cell,to=26,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=25,to=16,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Cell,to=16,decision=true]]
+Move=[Move:mover=2,from=70,to=70,actions=[Add:type=Cell,to=70,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=16,to=9,actions=[Move:typeFrom=Cell,from=16,levelFrom=0,typeTo=Cell,to=9,decision=true]]
+Move=[Move:mover=2,from=67,to=67,actions=[Add:type=Cell,to=67,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=57,to=57,actions=[Add:type=Cell,to=57,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=8,to=7,actions=[Move:typeFrom=Cell,from=8,levelFrom=0,typeTo=Cell,to=7,decision=true]]
+Move=[Move:mover=1,from=54,to=54,actions=[Add:type=Cell,to=54,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=49,to=49,actions=[Add:type=Cell,to=49,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=57,to=58,actions=[Move:typeFrom=Cell,from=57,levelFrom=0,typeTo=Cell,to=58,decision=true]]
+Move=[Move:mover=2,from=38,to=38,actions=[Add:type=Cell,to=38,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=73,to=73,actions=[Add:type=Cell,to=73,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=67,to=68,actions=[Move:typeFrom=Cell,from=67,levelFrom=0,typeTo=Cell,to=68,decision=true]]
+Move=[Move:mover=1,from=39,to=39,actions=[Add:type=Cell,to=39,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=38,to=28,actions=[Move:typeFrom=Cell,from=38,levelFrom=0,typeTo=Cell,to=28,decision=true]]
+Move=[Move:mover=1,actions=[Pass:decision=true]]
+Move=[Move:mover=2,from=45,to=45,actions=[Add:type=Cell,to=45,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,actions=[Pass:decision=true]]
+Move=[Move:mover=2,from=43,to=43,actions=[Add:type=Cell,to=43,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=44,to=35,actions=[Move:typeFrom=Cell,from=44,levelFrom=0,typeTo=Cell,to=35,decision=true]]
+Move=[Move:mover=2,from=45,to=60,actions=[Move:typeFrom=Cell,from=45,levelFrom=0,typeTo=Cell,to=60,decision=true]]
+Move=[Move:mover=1,from=73,to=74,actions=[Move:typeFrom=Cell,from=73,levelFrom=0,typeTo=Cell,to=74,decision=true]]
+Move=[Move:mover=2,from=26,to=25,actions=[Move:typeFrom=Cell,from=26,levelFrom=0,typeTo=Cell,to=25,decision=true]]
+Move=[Move:mover=1,from=35,to=34,actions=[Move:typeFrom=Cell,from=35,levelFrom=0,typeTo=Cell,to=34,decision=true]]
+Move=[Move:mover=2,from=68,to=73,actions=[Move:typeFrom=Cell,from=68,levelFrom=0,typeTo=Cell,to=73,decision=true]]
+Move=[Move:mover=1,from=34,to=44,actions=[Move:typeFrom=Cell,from=34,levelFrom=0,typeTo=Cell,to=44,decision=true]]
+Move=[Move:mover=2,from=43,to=52,actions=[Move:typeFrom=Cell,from=43,levelFrom=0,typeTo=Cell,to=52,decision=true]]
+Move=[Move:mover=1,from=74,to=69,actions=[Move:typeFrom=Cell,from=74,levelFrom=0,typeTo=Cell,to=69,decision=true]]
+Move=[Move:mover=2,from=52,to=51,actions=[Move:typeFrom=Cell,from=52,levelFrom=0,typeTo=Cell,to=51,decision=true]]
+Move=[Move:mover=1,actions=[Pass:decision=true]]
+Move=[Move:mover=2,actions=[Pass:decision=true]]
+LEGAL MOVES LIST SIZE = 76
+LEGAL MOVES LIST SIZE = 75
+LEGAL MOVES LIST SIZE = 48
+LEGAL MOVES LIST SIZE = 53
+LEGAL MOVES LIST SIZE = 35
+LEGAL MOVES LIST SIZE = 39
+LEGAL MOVES LIST SIZE = 26
+LEGAL MOVES LIST SIZE = 38
+LEGAL MOVES LIST SIZE = 37
+LEGAL MOVES LIST SIZE = 35
+LEGAL MOVES LIST SIZE = 38
+LEGAL MOVES LIST SIZE = 20
+LEGAL MOVES LIST SIZE = 28
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 16
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 9
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 16
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 27
+LEGAL MOVES LIST SIZE = 27
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 11
+LEGAL MOVES LIST SIZE = 10
+LEGAL MOVES LIST SIZE = 19
+LEGAL MOVES LIST SIZE = 43
+LEGAL MOVES LIST SIZE = 10
+LEGAL MOVES LIST SIZE = 9
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 2
+winner=2
+rankings=0.0,2.0,1.0
+SANDBOX=false
+LUDII_VERSION=1.1.2

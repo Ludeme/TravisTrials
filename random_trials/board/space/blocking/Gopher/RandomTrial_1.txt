@@ -1,0 +1,79 @@
+game=../Common/res/lud/board/space/blocking/Gopher.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=108,38,0,-55,64,107,-119,104
+Move=[Move:mover=1,from=76,to=76,actions=[Add:type=Cell,to=76,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=68,to=68,actions=[Add:type=Cell,to=68,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=69,to=69,actions=[Add:type=Cell,to=69,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=83,to=83,actions=[Add:type=Cell,to=83,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=82,to=82,actions=[Add:type=Cell,to=82,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=74,to=74,actions=[Add:type=Cell,to=74,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=90,to=90,actions=[Add:type=Cell,to=90,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=88,to=88,actions=[Add:type=Cell,to=88,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=73,to=73,actions=[Add:type=Cell,to=73,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=60,to=60,actions=[Add:type=Cell,to=60,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=49,to=49,actions=[Add:type=Cell,to=49,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=39,to=39,actions=[Add:type=Cell,to=39,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=58,to=58,actions=[Add:type=Cell,to=58,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=72,to=72,actions=[Add:type=Cell,to=72,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=71,to=71,actions=[Add:type=Cell,to=71,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=57,to=57,actions=[Add:type=Cell,to=57,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=56,to=56,actions=[Add:type=Cell,to=56,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=62,to=62,actions=[Add:type=Cell,to=62,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=29,to=29,actions=[Add:type=Cell,to=29,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=45,to=45,actions=[Add:type=Cell,to=45,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=52,to=52,actions=[Add:type=Cell,to=52,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=41,to=41,actions=[Add:type=Cell,to=41,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=35,to=35,actions=[Add:type=Cell,to=35,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=26,to=26,actions=[Add:type=Cell,to=26,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=30,to=30,actions=[Add:type=Cell,to=30,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=78,to=78,actions=[Add:type=Cell,to=78,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=44,to=44,actions=[Add:type=Cell,to=44,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=43,to=43,actions=[Add:type=Cell,to=43,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=87,to=87,actions=[Add:type=Cell,to=87,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=20,to=20,actions=[Add:type=Cell,to=20,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=85,to=85,actions=[Add:type=Cell,to=85,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=21,to=21,actions=[Add:type=Cell,to=21,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=18,to=18,actions=[Add:type=Cell,to=18,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=11,to=11,actions=[Add:type=Cell,to=11,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=5,to=5,actions=[Add:type=Cell,to=5,level=0,what=1,decision=true]]
+LEGAL MOVES LIST SIZE = 91
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 5
+winner=1
+endtype=NaturalEnd
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.1.17

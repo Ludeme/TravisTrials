@@ -1,0 +1,20 @@
+game=../Common/res/lud/math/graph/Two-Colour.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=24,-109,-19,-115,-109,-61,17,-72
+Move=[Move:mover=1,from=5,to=5,actions=[Add:type=Vertex,to=5,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=14,to=14,actions=[Add:type=Vertex,to=14,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,from=24,to=24,actions=[Add:type=Vertex,to=24,what=1,decision=true],[SetScore:player=1,score=1,add=true]]
+Move=[Move:mover=2,from=11,to=11,actions=[Add:type=Vertex,to=11,what=2,decision=true],[SetScore:player=2,score=1,add=true]]
+Move=[Move:mover=1,actions=[Pass:decision=true]]
+Move=[Move:mover=2,actions=[Pass:decision=true]]
+LEGAL MOVES LIST SIZE = 26
+LEGAL MOVES LIST SIZE = 25
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 22
+LEGAL MOVES LIST SIZE = 22
+winner=0
+rankings=0.0,1.5,1.5
+SANDBOX=false
+LUDII_VERSION=1.0.4

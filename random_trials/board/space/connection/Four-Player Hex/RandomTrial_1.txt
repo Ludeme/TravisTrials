@@ -1,0 +1,83 @@
+game=../Common/res/lud/board/space/connection/Four-Player Hex.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-52,72,92,-21,15,-67,-18,30
+Move=[Move:from=17,to=17,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=17,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=42,to=42,state=-1,oriented=true,edge=-1,mover=2,levelMin=0,levelMax=0,actions=[ActionAdd:loc=42,what=2,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=3,to=3,state=-1,oriented=true,edge=-1,mover=3,levelMin=0,levelMax=0,actions=[ActionAdd:loc=3,what=3,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=22,to=22,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=22,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=45,to=45,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=45,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=0,to=0,state=-1,oriented=true,edge=-1,mover=2,levelMin=0,levelMax=0,actions=[ActionAdd:loc=0,what=2,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=34,to=34,state=-1,oriented=true,edge=-1,mover=3,levelMin=0,levelMax=0,actions=[ActionAdd:loc=34,what=3,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=59,to=59,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=59,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=50,to=50,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=50,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=10,to=10,state=-1,oriented=true,edge=-1,mover=2,levelMin=0,levelMax=0,actions=[ActionAdd:loc=10,what=2,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=29,to=29,state=-1,oriented=true,edge=-1,mover=3,levelMin=0,levelMax=0,actions=[ActionAdd:loc=29,what=3,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=24,to=24,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=24,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=43,to=43,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=43,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=55,to=55,state=-1,oriented=true,edge=-1,mover=2,levelMin=0,levelMax=0,actions=[ActionAdd:loc=55,what=2,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=52,to=52,state=-1,oriented=true,edge=-1,mover=3,levelMin=0,levelMax=0,actions=[ActionAdd:loc=52,what=3,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=7,to=7,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=7,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=36,to=36,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=36,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=28,to=28,state=-1,oriented=true,edge=-1,mover=2,levelMin=0,levelMax=0,actions=[ActionAdd:loc=28,what=2,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=5,to=5,state=-1,oriented=true,edge=-1,mover=3,levelMin=0,levelMax=0,actions=[ActionAdd:loc=5,what=3,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=25,to=25,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=25,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=12,to=12,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=12,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=19,to=19,state=-1,oriented=true,edge=-1,mover=2,levelMin=0,levelMax=0,actions=[ActionAdd:loc=19,what=2,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=32,to=32,state=-1,oriented=true,edge=-1,mover=3,levelMin=0,levelMax=0,actions=[ActionAdd:loc=32,what=3,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=26,to=26,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=26,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=6,to=6,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=6,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=16,to=16,state=-1,oriented=true,edge=-1,mover=2,levelMin=0,levelMax=0,actions=[ActionAdd:loc=16,what=2,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=44,to=44,state=-1,oriented=true,edge=-1,mover=3,levelMin=0,levelMax=0,actions=[ActionAdd:loc=44,what=3,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=33,to=33,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=33,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=54,to=54,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=54,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=60,to=60,state=-1,oriented=true,edge=-1,mover=2,levelMin=0,levelMax=0,actions=[ActionAdd:loc=60,what=2,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=30,to=30,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=30,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=37,to=37,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=37,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=2,to=2,state=-1,oriented=true,edge=-1,mover=2,levelMin=0,levelMax=0,actions=[ActionAdd:loc=2,what=2,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=23,to=23,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=23,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=4,to=4,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=4,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=13,to=13,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=13,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=62,to=62,state=-1,oriented=true,edge=-1,mover=1,levelMin=0,levelMax=0,actions=[ActionAdd:loc=62,what=1,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+Move=[Move:from=53,to=53,state=-1,oriented=true,edge=-1,mover=4,levelMin=0,levelMax=0,actions=[ActionAdd:loc=53,what=4,state=-1,rotation=-1,type=Cell,decision=true,hidden=null]]
+LEGAL MOVES LIST SIZE = 64
+LEGAL MOVES LIST SIZE = 63
+LEGAL MOVES LIST SIZE = 62
+LEGAL MOVES LIST SIZE = 61
+LEGAL MOVES LIST SIZE = 60
+LEGAL MOVES LIST SIZE = 59
+LEGAL MOVES LIST SIZE = 58
+LEGAL MOVES LIST SIZE = 57
+LEGAL MOVES LIST SIZE = 56
+LEGAL MOVES LIST SIZE = 55
+LEGAL MOVES LIST SIZE = 54
+LEGAL MOVES LIST SIZE = 53
+LEGAL MOVES LIST SIZE = 52
+LEGAL MOVES LIST SIZE = 51
+LEGAL MOVES LIST SIZE = 50
+LEGAL MOVES LIST SIZE = 49
+LEGAL MOVES LIST SIZE = 48
+LEGAL MOVES LIST SIZE = 47
+LEGAL MOVES LIST SIZE = 46
+LEGAL MOVES LIST SIZE = 45
+LEGAL MOVES LIST SIZE = 44
+LEGAL MOVES LIST SIZE = 43
+LEGAL MOVES LIST SIZE = 42
+LEGAL MOVES LIST SIZE = 41
+LEGAL MOVES LIST SIZE = 40
+LEGAL MOVES LIST SIZE = 39
+LEGAL MOVES LIST SIZE = 38
+LEGAL MOVES LIST SIZE = 37
+LEGAL MOVES LIST SIZE = 36
+LEGAL MOVES LIST SIZE = 35
+LEGAL MOVES LIST SIZE = 34
+LEGAL MOVES LIST SIZE = 33
+LEGAL MOVES LIST SIZE = 32
+LEGAL MOVES LIST SIZE = 31
+LEGAL MOVES LIST SIZE = 30
+LEGAL MOVES LIST SIZE = 29
+LEGAL MOVES LIST SIZE = 28
+LEGAL MOVES LIST SIZE = 27
+winner=4
+rankings=0.0,2.0,3.0,4.0,1.0
+SANDBOX=false

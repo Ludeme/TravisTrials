@@ -1,0 +1,52 @@
+game=../Common/res/lud/board/space/line/Sujjua.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=87,1,25,107,-89,93,-117,-52
+Move=[Move:mover=0,from=24,to=24,actions=[Add:type=Cell,to=24,what=1,count=9]]
+Move=[Move:mover=0,from=25,to=25,actions=[Add:type=Cell,to=25,what=2,count=9]]
+Move=[Move:mover=1,from=24,to=11,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=11,decision=true]]
+Move=[Move:mover=2,from=25,to=23,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=23,decision=true]]
+Move=[Move:mover=1,from=24,to=1,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=1,decision=true]]
+Move=[Move:mover=2,from=25,to=17,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=17,decision=true]]
+Move=[Move:mover=1,from=24,to=4,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=4,decision=true]]
+Move=[Move:mover=2,from=17,to=12,actions=[Move:typeFrom=Vertex,from=17,typeTo=Vertex,to=12,decision=true]]
+Move=[Move:mover=1,from=24,to=6,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=6,decision=true]]
+Move=[Move:mover=2,from=25,to=21,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=21,decision=true]]
+Move=[Move:mover=1,from=24,to=14,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=14,decision=true]]
+Move=[Move:mover=2,from=25,to=0,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=0,decision=true]]
+Move=[Move:mover=1,from=24,to=10,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=10,decision=true]]
+Move=[Move:mover=2,from=25,to=20,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=20,decision=true]]
+Move=[Move:mover=1,from=4,to=5,actions=[Move:typeFrom=Vertex,from=4,typeTo=Vertex,to=5,decision=true]]
+Move=[Move:mover=2,from=25,to=19,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=19,decision=true]]
+Move=[Move:mover=1,from=1,to=4,actions=[Move:typeFrom=Vertex,from=1,typeTo=Vertex,to=4,decision=true]]
+Move=[Move:mover=2,from=23,to=22,actions=[Move:typeFrom=Vertex,from=23,typeTo=Vertex,to=22,decision=true]]
+Move=[Move:mover=1,from=24,to=7,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=7,decision=true]]
+Move=[Move:mover=2,from=25,to=1,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=1,decision=true]]
+Move=[Move:mover=1,from=7,to=8,actions=[Move:typeFrom=Vertex,from=7,typeTo=Vertex,to=8,decision=true]]
+Move=[Move:mover=2,from=21,to=9,actions=[Move:typeFrom=Vertex,from=21,typeTo=Vertex,to=9,decision=true]]
+Move=[Move:mover=1,from=4,to=7,actions=[Move:typeFrom=Vertex,from=4,typeTo=Vertex,to=7,decision=true]]
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 25
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 26
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 27
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 25
+LEGAL MOVES LIST SIZE = 22
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 22
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 20
+LEGAL MOVES LIST SIZE = 19
+LEGAL MOVES LIST SIZE = 21
+winner=1
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.0.6

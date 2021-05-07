@@ -1,0 +1,90 @@
+game=../Common/res/lud/dominoes/Block.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=96,11,-115,-66,-6,125,-119,1
+Move=[Move:mover=0,from=1681,to=1681,actions=[Add:type=Cell,to=1681,what=21]]
+Move=[Move:mover=0,from=1702,to=1702,actions=[Add:type=Cell,to=1702,what=9]]
+Move=[Move:mover=0,from=1682,to=1682,actions=[Add:type=Cell,to=1682,what=27]]
+Move=[Move:mover=0,from=1703,to=1703,actions=[Add:type=Cell,to=1703,what=2]]
+Move=[Move:mover=0,from=1683,to=1683,actions=[Add:type=Cell,to=1683,what=22]]
+Move=[Move:mover=0,from=1704,to=1704,actions=[Add:type=Cell,to=1704,what=16]]
+Move=[Move:mover=0,from=1684,to=1684,actions=[Add:type=Cell,to=1684,what=25]]
+Move=[Move:mover=0,from=1705,to=1705,actions=[Add:type=Cell,to=1705,what=20]]
+Move=[Move:mover=0,from=1685,to=1685,actions=[Add:type=Cell,to=1685,what=14]]
+Move=[Move:mover=0,from=1706,to=1706,actions=[Add:type=Cell,to=1706,what=28]]
+Move=[Move:mover=0,from=1686,to=1686,actions=[Add:type=Cell,to=1686,what=10]]
+Move=[Move:mover=0,from=1707,to=1707,actions=[Add:type=Cell,to=1707,what=6]]
+Move=[Move:mover=0,from=1687,to=1687,actions=[Add:type=Cell,to=1687,what=4]]
+Move=[Move:mover=0,from=1708,to=1708,actions=[Add:type=Cell,to=1708,what=8]]
+Move=[Move:mover=0,from=1681,to=1681,actions=[SetHiddenWhat:type=Cell,to=1681,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1682,to=1682,actions=[SetHiddenWhat:type=Cell,to=1682,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1683,to=1683,actions=[SetHiddenWhat:type=Cell,to=1683,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1684,to=1684,actions=[SetHiddenWhat:type=Cell,to=1684,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1685,to=1685,actions=[SetHiddenWhat:type=Cell,to=1685,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1686,to=1686,actions=[SetHiddenWhat:type=Cell,to=1686,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1687,to=1687,actions=[SetHiddenWhat:type=Cell,to=1687,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1688,to=1688,actions=[SetHiddenWhat:type=Cell,to=1688,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1689,to=1689,actions=[SetHiddenWhat:type=Cell,to=1689,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1690,to=1690,actions=[SetHiddenWhat:type=Cell,to=1690,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1691,to=1691,actions=[SetHiddenWhat:type=Cell,to=1691,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1692,to=1692,actions=[SetHiddenWhat:type=Cell,to=1692,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1693,to=1693,actions=[SetHiddenWhat:type=Cell,to=1693,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1694,to=1694,actions=[SetHiddenWhat:type=Cell,to=1694,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1695,to=1695,actions=[SetHiddenWhat:type=Cell,to=1695,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1696,to=1696,actions=[SetHiddenWhat:type=Cell,to=1696,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1697,to=1697,actions=[SetHiddenWhat:type=Cell,to=1697,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1698,to=1698,actions=[SetHiddenWhat:type=Cell,to=1698,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1699,to=1699,actions=[SetHiddenWhat:type=Cell,to=1699,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1700,to=1700,actions=[SetHiddenWhat:type=Cell,to=1700,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1701,to=1701,actions=[SetHiddenWhat:type=Cell,to=1701,level=0,who=2,value=true]]
+Move=[Move:mover=0,from=1702,to=1702,actions=[SetHiddenWhat:type=Cell,to=1702,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1703,to=1703,actions=[SetHiddenWhat:type=Cell,to=1703,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1704,to=1704,actions=[SetHiddenWhat:type=Cell,to=1704,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1705,to=1705,actions=[SetHiddenWhat:type=Cell,to=1705,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1706,to=1706,actions=[SetHiddenWhat:type=Cell,to=1706,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1707,to=1707,actions=[SetHiddenWhat:type=Cell,to=1707,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1708,to=1708,actions=[SetHiddenWhat:type=Cell,to=1708,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1709,to=1709,actions=[SetHiddenWhat:type=Cell,to=1709,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1710,to=1710,actions=[SetHiddenWhat:type=Cell,to=1710,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1711,to=1711,actions=[SetHiddenWhat:type=Cell,to=1711,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1712,to=1712,actions=[SetHiddenWhat:type=Cell,to=1712,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1713,to=1713,actions=[SetHiddenWhat:type=Cell,to=1713,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1714,to=1714,actions=[SetHiddenWhat:type=Cell,to=1714,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1715,to=1715,actions=[SetHiddenWhat:type=Cell,to=1715,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1716,to=1716,actions=[SetHiddenWhat:type=Cell,to=1716,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1717,to=1717,actions=[SetHiddenWhat:type=Cell,to=1717,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1718,to=1718,actions=[SetHiddenWhat:type=Cell,to=1718,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1719,to=1719,actions=[SetHiddenWhat:type=Cell,to=1719,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1720,to=1720,actions=[SetHiddenWhat:type=Cell,to=1720,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1721,to=1721,actions=[SetHiddenWhat:type=Cell,to=1721,level=0,who=1,value=true]]
+Move=[Move:mover=0,from=1722,to=1722,actions=[SetHiddenWhat:type=Cell,to=1722,level=0,who=1,value=true]]
+Move=[Move:mover=1,from=1681,to=840,actions=[Move:typeFrom=Cell,from=1681,typeTo=Cell,to=840,state=0,decision=true],[SetHiddenWhat:type=Cell,to=840,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=840,level=0,who=2,value=false]]
+Move=[Move:mover=2,from=1705,to=880,actions=[Move:typeFrom=Cell,from=1705,typeTo=Cell,to=880,state=2,decision=true],[SetHiddenWhat:type=Cell,to=880,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=880,level=0,who=2,value=false]]
+Move=[Move:mover=1,from=1682,to=844,actions=[Move:typeFrom=Cell,from=1682,typeTo=Cell,to=844,state=0,decision=true],[SetHiddenWhat:type=Cell,to=844,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=844,level=0,who=2,value=false]]
+Move=[Move:mover=2,from=1706,to=848,actions=[Move:typeFrom=Cell,from=1706,typeTo=Cell,to=848,state=0,decision=true],[SetHiddenWhat:type=Cell,to=848,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=848,level=0,who=2,value=false]]
+Move=[Move:mover=1,from=1684,to=1054,actions=[Move:typeFrom=Cell,from=1684,typeTo=Cell,to=1054,state=1,decision=true],[SetHiddenWhat:type=Cell,to=1054,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=1054,level=0,who=2,value=false]]
+Move=[Move:mover=2,from=1704,to=832,actions=[Move:typeFrom=Cell,from=1704,typeTo=Cell,to=832,state=0,decision=true],[SetHiddenWhat:type=Cell,to=832,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=832,level=0,who=2,value=false]]
+Move=[Move:mover=1,from=1685,to=828,actions=[Move:typeFrom=Cell,from=1685,typeTo=Cell,to=828,state=0,decision=true],[SetHiddenWhat:type=Cell,to=828,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=828,level=0,who=2,value=false]]
+Move=[Move:mover=2,from=1702,to=666,actions=[Move:typeFrom=Cell,from=1702,typeTo=Cell,to=666,state=3,decision=true],[SetHiddenWhat:type=Cell,to=666,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=666,level=0,who=2,value=false]]
+Move=[Move:mover=1,from=1683,to=686,actions=[Move:typeFrom=Cell,from=1683,typeTo=Cell,to=686,state=3,decision=true],[SetHiddenWhat:type=Cell,to=686,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=686,level=0,who=2,value=false]]
+Move=[Move:mover=2,from=1708,to=624,actions=[Move:typeFrom=Cell,from=1708,typeTo=Cell,to=624,state=1,decision=true],[SetHiddenWhat:type=Cell,to=624,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=624,level=0,who=2,value=false]]
+Move=[Move:mover=1,from=1686,to=582,actions=[Move:typeFrom=Cell,from=1686,typeTo=Cell,to=582,state=2,decision=true],[SetHiddenWhat:type=Cell,to=582,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=582,level=0,who=2,value=false]]
+Move=[Move:mover=2,from=1703,to=588,actions=[Move:typeFrom=Cell,from=1703,typeTo=Cell,to=588,state=2,decision=true],[SetHiddenWhat:type=Cell,to=588,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=588,level=0,who=2,value=false]]
+Move=[Move:mover=1,from=1687,to=548,actions=[Move:typeFrom=Cell,from=1687,typeTo=Cell,to=548,state=0,decision=true],[SetHiddenWhat:type=Cell,to=548,level=0,who=1,value=false],[SetHiddenWhat:type=Cell,to=548,level=0,who=2,value=false]]
+LEGAL MOVES LIST SIZE = 28
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 3
+winner=1
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.1.12

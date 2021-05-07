@@ -1,0 +1,35 @@
+game=../Common/res/lud/experimental/Claustro.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-61,37,27,35,-58,-42,115,69
+Move=[Move:mover=0,actions=[SetScore:player=1,score=0]]
+Move=[Move:mover=0,actions=[SetScore:player=2,score=0]]
+Move=[Move:mover=1,from=23,to=23,actions=[Add:type=Vertex,to=23,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=11,to=11,actions=[Add:type=Vertex,to=11,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=10,to=10,actions=[Add:type=Vertex,to=10,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=14,to=14,actions=[Add:type=Vertex,to=14,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=13,to=13,actions=[Add:type=Vertex,to=13,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=18,to=18,actions=[Add:type=Vertex,to=18,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=3,to=3,actions=[Add:type=Vertex,to=3,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=25,to=25,actions=[Add:type=Vertex,to=25,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=26,to=26,actions=[Add:type=Vertex,to=26,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=16,to=16,actions=[Add:type=Vertex,to=16,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=12,to=12,actions=[Add:type=Vertex,to=12,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=19,to=19,actions=[Add:type=Vertex,to=19,level=0,what=2,decision=true],[Trigger:event=End,player=2]]
+LEGAL MOVES LIST SIZE = 27
+LEGAL MOVES LIST SIZE = 26
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 17
+LEGAL MOVES LIST SIZE = 20
+LEGAL MOVES LIST SIZE = 16
+LEGAL MOVES LIST SIZE = 17
+LEGAL MOVES LIST SIZE = 13
+LEGAL MOVES LIST SIZE = 13
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 12
+winner=1
+endtype=NaturalEnd
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.1.17

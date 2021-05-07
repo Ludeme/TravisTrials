@@ -1,0 +1,30 @@
+game=../Common/res/lud/board/space/line/Sujjua.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-17,-16,43,32,-40,-70,98,62
+Move=[Move:mover=0,from=24,to=24,actions=[Add:type=Cell,to=24,what=1,count=9]]
+Move=[Move:mover=0,from=25,to=25,actions=[Add:type=Cell,to=25,what=2,count=9]]
+Move=[Move:mover=1,from=24,to=18,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=18,decision=true]]
+Move=[Move:mover=2,from=25,to=6,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=6,decision=true]]
+Move=[Move:mover=1,from=24,to=1,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=1,decision=true]]
+Move=[Move:mover=2,from=25,to=3,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=3,decision=true]]
+Move=[Move:mover=1,from=24,to=13,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=13,decision=true]]
+Move=[Move:mover=2,from=25,to=8,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=8,decision=true]]
+Move=[Move:mover=1,from=24,to=21,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=21,decision=true]]
+Move=[Move:mover=2,from=25,to=17,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=17,decision=true]]
+Move=[Move:mover=1,from=24,to=15,actions=[Move:typeFrom=Cell,from=24,levelFrom=0,typeTo=Vertex,to=15,decision=true]]
+Move=[Move:mover=2,from=25,to=7,actions=[Move:typeFrom=Cell,from=25,levelFrom=0,typeTo=Vertex,to=7,decision=true]]
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 25
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 27
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 27
+LEGAL MOVES LIST SIZE = 23
+winner=2
+rankings=0.0,2.0,1.0
+SANDBOX=false
+LUDII_VERSION=1.0.6

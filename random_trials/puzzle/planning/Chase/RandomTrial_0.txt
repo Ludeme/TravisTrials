@@ -1,0 +1,32 @@
+game=../Common/res/lud/puzzle/planning/Chase.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-6,112,-43,-16,-118,98,-127,29
+Move=[Move:mover=0,from=65,to=65,actions=[Add:type=Cell,to=65,what=1]]
+Move=[Move:mover=0,from=153,to=153,actions=[Add:type=Cell,to=153,what=2]]
+Move=[Move:mover=0,from=197,to=197,actions=[Add:type=Cell,to=197,what=2]]
+Move=[Move:mover=0,from=93,to=93,actions=[Add:type=Cell,to=93,what=2]]
+Move=[Move:mover=0,from=190,to=190,actions=[Add:type=Cell,to=190,what=2]]
+Move=[Move:mover=0,from=105,to=105,actions=[Add:type=Cell,to=105,what=2]]
+Move=[Move:mover=0,from=96,to=96,actions=[Add:type=Cell,to=96,what=2]]
+Move=[Move:mover=0,from=73,to=73,actions=[Add:type=Cell,to=73,what=2]]
+Move=[Move:mover=0,from=87,to=87,actions=[Add:type=Cell,to=87,what=2]]
+Move=[Move:mover=0,from=85,to=85,actions=[Add:type=Cell,to=85,what=2]]
+Move=[Move:mover=0,from=39,to=39,actions=[Add:type=Cell,to=39,what=2]]
+Move=[Move:mover=0,from=139,to=139,actions=[Add:type=Cell,to=139,what=2]]
+Move=[Move:mover=0,from=14,to=14,actions=[Add:type=Cell,to=14,what=2]]
+Move=[Move:mover=0,from=38,to=38,actions=[Add:type=Cell,to=38,what=2]]
+Move=[Move:mover=0,from=26,to=26,actions=[Add:type=Cell,to=26,what=2]]
+Move=[Move:mover=0,from=163,to=163,actions=[Add:type=Cell,to=163,what=2]]
+Move=[Move:mover=0,from=177,to=177,actions=[Add:type=Cell,to=177,what=2]]
+Move=[Move:mover=0,from=72,to=72,actions=[Add:type=Cell,to=72,what=2]]
+Move=[Move:mover=0,from=16,to=16,actions=[Add:type=Cell,to=16,what=2]]
+Move=[Move:mover=0,from=122,to=122,actions=[Add:type=Cell,to=122,what=2]]
+Move=[Move:mover=0,from=2,to=2,actions=[Add:type=Cell,to=2,what=2]]
+Move=[Move:mover=0,actions=[SetScore:player=1,score=5]]
+Move=[Move:mover=1,from=65,to=64,actions=[Move:typeFrom=Cell,from=65,typeTo=Cell,to=64,decision=true],[Move:typeFrom=Cell,from=2,levelFrom=0,typeTo=Cell,to=23],[Move:typeFrom=Cell,from=14,levelFrom=0,typeTo=Cell,to=33],[Move:typeFrom=Cell,from=16,levelFrom=0,typeTo=Cell,to=35],[Move:typeFrom=Cell,from=26,levelFrom=0,typeTo=Cell,to=45],[Move:typeFrom=Cell,from=38,levelFrom=0,typeTo=Cell,to=57],[Move:typeFrom=Cell,from=39,levelFrom=0,typeTo=Cell,to=58],[Move:typeFrom=Cell,from=72,levelFrom=0,typeTo=Cell,to=71],[Move:typeFrom=Cell,from=73,levelFrom=0,typeTo=Cell,to=72],[Remove:type=Cell,to=64],[Move:typeFrom=Cell,from=85,levelFrom=0,typeTo=Cell,to=64],[Move:typeFrom=Cell,from=87,levelFrom=0,typeTo=Cell,to=66],[Move:typeFrom=Cell,from=93,levelFrom=0,typeTo=Cell,to=72],[Move:typeFrom=Cell,from=96,levelFrom=0,typeTo=Cell,to=75],[Move:typeFrom=Cell,from=105,levelFrom=0,typeTo=Cell,to=84],[Move:typeFrom=Cell,from=122,levelFrom=0,typeTo=Cell,to=103],[Move:typeFrom=Cell,from=139,levelFrom=0,typeTo=Cell,to=118],[Move:typeFrom=Cell,from=153,levelFrom=0,typeTo=Cell,to=132],[Move:typeFrom=Cell,from=163,levelFrom=0,typeTo=Cell,to=144],[Move:typeFrom=Cell,from=177,levelFrom=0,typeTo=Cell,to=156],[Move:typeFrom=Cell,from=190,levelFrom=0,typeTo=Cell,to=169],[Move:typeFrom=Cell,from=197,levelFrom=0,typeTo=Cell,to=176],[Remove:type=Cell,to=72],[Add:type=Cell,to=72,what=3]]
+LEGAL MOVES LIST SIZE = 9
+winner=0
+rankings=0.0,0.0
+SANDBOX=false
+LUDII_VERSION=1.1.3

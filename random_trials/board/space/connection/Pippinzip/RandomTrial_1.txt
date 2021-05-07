@@ -1,0 +1,155 @@
+game=../Common/res/lud/board/space/connection/Pippinzip.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=124,-83,94,16,28,-109,-2,61
+Move=[Move:mover=1,from=54,to=54,actions=[Add:type=Vertex,to=54,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=96,to=96,actions=[Add:type=Vertex,to=96,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=15,to=15,actions=[Add:type=Vertex,to=15,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=120,to=120,actions=[Add:type=Vertex,to=120,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=163,to=163,actions=[Add:type=Vertex,to=163,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=94,to=94,actions=[Add:type=Vertex,to=94,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=60,to=60,actions=[Add:type=Vertex,to=60,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=107,to=107,actions=[Add:type=Vertex,to=107,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=139,to=139,actions=[Add:type=Vertex,to=139,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=39,to=39,actions=[Add:type=Vertex,to=39,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=44,to=44,actions=[Add:type=Vertex,to=44,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=76,to=76,actions=[Add:type=Vertex,to=76,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=93,to=93,actions=[Add:type=Vertex,to=93,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=69,to=69,actions=[Add:type=Vertex,to=69,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=62,to=62,actions=[Add:type=Vertex,to=62,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=146,to=146,actions=[Add:type=Vertex,to=146,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=45,to=45,actions=[Add:type=Vertex,to=45,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=82,to=82,actions=[Add:type=Vertex,to=82,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=25,to=25,actions=[Add:type=Vertex,to=25,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=28,to=28,actions=[Add:type=Vertex,to=28,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=136,to=136,actions=[Add:type=Vertex,to=136,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=156,to=156,actions=[Add:type=Vertex,to=156,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=158,to=158,actions=[Add:type=Vertex,to=158,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=140,to=140,actions=[Add:type=Vertex,to=140,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=26,to=26,actions=[Add:type=Vertex,to=26,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=71,to=71,actions=[Add:type=Vertex,to=71,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=47,to=47,actions=[Add:type=Vertex,to=47,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=70,to=70,actions=[Add:type=Vertex,to=70,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=103,to=103,actions=[Add:type=Vertex,to=103,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=131,to=131,actions=[Add:type=Vertex,to=131,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=80,to=80,actions=[Add:type=Vertex,to=80,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=12,to=12,actions=[Add:type=Vertex,to=12,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=51,to=51,actions=[Add:type=Vertex,to=51,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=149,to=149,actions=[Add:type=Vertex,to=149,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=40,to=40,actions=[Add:type=Vertex,to=40,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=63,to=63,actions=[Add:type=Vertex,to=63,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=155,to=155,actions=[Add:type=Vertex,to=155,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=75,to=75,actions=[Add:type=Vertex,to=75,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=119,to=119,actions=[Add:type=Vertex,to=119,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=67,to=67,actions=[Add:type=Vertex,to=67,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=150,to=150,actions=[Add:type=Vertex,to=150,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=128,to=128,actions=[Add:type=Vertex,to=128,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=147,to=147,actions=[Add:type=Vertex,to=147,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=81,to=81,actions=[Add:type=Vertex,to=81,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=8,to=8,actions=[Add:type=Vertex,to=8,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=89,to=89,actions=[Add:type=Vertex,to=89,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=167,to=167,actions=[Add:type=Vertex,to=167,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=118,to=118,actions=[Add:type=Vertex,to=118,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=145,to=145,actions=[Add:type=Vertex,to=145,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=144,to=144,actions=[Add:type=Vertex,to=144,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=17,to=17,actions=[Add:type=Vertex,to=17,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=85,to=85,actions=[Add:type=Vertex,to=85,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=24,to=24,actions=[Add:type=Vertex,to=24,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=86,to=86,actions=[Add:type=Vertex,to=86,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=3,to=3,actions=[Add:type=Vertex,to=3,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=90,to=90,actions=[Add:type=Vertex,to=90,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=77,to=77,actions=[Add:type=Vertex,to=77,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=162,to=162,actions=[Add:type=Vertex,to=162,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=108,to=108,actions=[Add:type=Vertex,to=108,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=32,to=32,actions=[Add:type=Vertex,to=32,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=0,to=0,actions=[Add:type=Vertex,to=0,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=29,to=29,actions=[Add:type=Vertex,to=29,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=57,to=57,actions=[Add:type=Vertex,to=57,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=134,to=134,actions=[Add:type=Vertex,to=134,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=1,to=1,actions=[Add:type=Vertex,to=1,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=27,to=27,actions=[Add:type=Vertex,to=27,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=138,to=138,actions=[Add:type=Vertex,to=138,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=31,to=31,actions=[Add:type=Vertex,to=31,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=127,to=127,actions=[Add:type=Vertex,to=127,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=87,to=87,actions=[Add:type=Vertex,to=87,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=58,to=58,actions=[Add:type=Vertex,to=58,level=0,what=2,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=141,to=141,actions=[Add:type=Vertex,to=141,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=98,to=98,actions=[Add:type=Vertex,to=98,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+LEGAL MOVES LIST SIZE = 171
+LEGAL MOVES LIST SIZE = 169
+LEGAL MOVES LIST SIZE = 168
+LEGAL MOVES LIST SIZE = 168
+LEGAL MOVES LIST SIZE = 166
+LEGAL MOVES LIST SIZE = 165
+LEGAL MOVES LIST SIZE = 165
+LEGAL MOVES LIST SIZE = 163
+LEGAL MOVES LIST SIZE = 162
+LEGAL MOVES LIST SIZE = 162
+LEGAL MOVES LIST SIZE = 160
+LEGAL MOVES LIST SIZE = 159
+LEGAL MOVES LIST SIZE = 159
+LEGAL MOVES LIST SIZE = 157
+LEGAL MOVES LIST SIZE = 156
+LEGAL MOVES LIST SIZE = 156
+LEGAL MOVES LIST SIZE = 154
+LEGAL MOVES LIST SIZE = 153
+LEGAL MOVES LIST SIZE = 153
+LEGAL MOVES LIST SIZE = 151
+LEGAL MOVES LIST SIZE = 150
+LEGAL MOVES LIST SIZE = 150
+LEGAL MOVES LIST SIZE = 148
+LEGAL MOVES LIST SIZE = 147
+LEGAL MOVES LIST SIZE = 147
+LEGAL MOVES LIST SIZE = 145
+LEGAL MOVES LIST SIZE = 144
+LEGAL MOVES LIST SIZE = 144
+LEGAL MOVES LIST SIZE = 142
+LEGAL MOVES LIST SIZE = 141
+LEGAL MOVES LIST SIZE = 141
+LEGAL MOVES LIST SIZE = 139
+LEGAL MOVES LIST SIZE = 138
+LEGAL MOVES LIST SIZE = 138
+LEGAL MOVES LIST SIZE = 136
+LEGAL MOVES LIST SIZE = 135
+LEGAL MOVES LIST SIZE = 135
+LEGAL MOVES LIST SIZE = 133
+LEGAL MOVES LIST SIZE = 132
+LEGAL MOVES LIST SIZE = 132
+LEGAL MOVES LIST SIZE = 130
+LEGAL MOVES LIST SIZE = 129
+LEGAL MOVES LIST SIZE = 129
+LEGAL MOVES LIST SIZE = 127
+LEGAL MOVES LIST SIZE = 126
+LEGAL MOVES LIST SIZE = 126
+LEGAL MOVES LIST SIZE = 124
+LEGAL MOVES LIST SIZE = 123
+LEGAL MOVES LIST SIZE = 123
+LEGAL MOVES LIST SIZE = 121
+LEGAL MOVES LIST SIZE = 120
+LEGAL MOVES LIST SIZE = 120
+LEGAL MOVES LIST SIZE = 118
+LEGAL MOVES LIST SIZE = 117
+LEGAL MOVES LIST SIZE = 117
+LEGAL MOVES LIST SIZE = 115
+LEGAL MOVES LIST SIZE = 114
+LEGAL MOVES LIST SIZE = 114
+LEGAL MOVES LIST SIZE = 112
+LEGAL MOVES LIST SIZE = 111
+LEGAL MOVES LIST SIZE = 111
+LEGAL MOVES LIST SIZE = 109
+LEGAL MOVES LIST SIZE = 108
+LEGAL MOVES LIST SIZE = 108
+LEGAL MOVES LIST SIZE = 106
+LEGAL MOVES LIST SIZE = 105
+LEGAL MOVES LIST SIZE = 105
+LEGAL MOVES LIST SIZE = 103
+LEGAL MOVES LIST SIZE = 102
+LEGAL MOVES LIST SIZE = 102
+LEGAL MOVES LIST SIZE = 100
+LEGAL MOVES LIST SIZE = 99
+LEGAL MOVES LIST SIZE = 99
+winner=1
+endtype=NaturalEnd
+rankings=0.0,1.0,2.0
+SANDBOX=false
+LUDII_VERSION=1.1.15
