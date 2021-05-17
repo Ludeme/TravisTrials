@@ -1,7 +1,7 @@
 game=../Common/res/lud/puzzle/planning/Safe Passage.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=-84,97,-118,55,102,121,121,87
+RNG internal state=-67,-49,111,119,-64,-77,-38,-11
 Move=[Move:mover=0,from=8,to=8,actions=[Add:type=Cell,to=8,what=1]]
 Move=[Move:mover=0,from=9,to=9,actions=[Add:type=Cell,to=9,what=1]]
 Move=[Move:mover=0,from=10,to=10,actions=[Add:type=Cell,to=10,what=1]]
@@ -34,17 +34,16 @@ Move=[Move:mover=0,from=58,to=58,actions=[Add:type=Cell,to=58,what=8]]
 Move=[Move:mover=0,from=61,to=61,actions=[Add:type=Cell,to=61,what=8]]
 Move=[Move:mover=0,from=59,to=59,actions=[Add:type=Cell,to=59,what=12]]
 Move=[Move:mover=0,from=60,to=60,actions=[Add:type=Cell,to=60,what=6,state=1]]
-Move=[Move:mover=1,from=9,to=17,actions=[Move:typeFrom=Cell,from=9,typeTo=Cell,to=17,decision=true],[SetCounter:counter=-1]]
-Move=[Move:mover=2,from=54,to=46,actions=[Move:typeFrom=Cell,from=54,typeTo=Cell,to=46,decision=true],[SetCounter:counter=-1]]
-Move=[Move:mover=1,from=11,to=19,actions=[Move:typeFrom=Cell,from=11,typeTo=Cell,to=19,decision=true],[SetCounter:counter=-1]]
-Move=[Move:mover=2,from=52,to=36,actions=[Move:typeFrom=Cell,from=52,typeTo=Cell,to=36,decision=true],[SetPending:value=44],[SetCounter:counter=-1]]
-Move=[Move:mover=1,from=2,to=20,actions=[Move:typeFrom=Cell,from=2,typeTo=Cell,to=20,decision=true]]
+Move=[Move:mover=1,from=15,to=31,actions=[Move:typeFrom=Cell,from=15,typeTo=Cell,to=31,decision=true],[SetPending:value=23],[SetCounter:counter=-1]]
+Move=[Move:mover=2,from=48,to=40,actions=[Move:typeFrom=Cell,from=48,typeTo=Cell,to=40,decision=true],[SetCounter:counter=-1]]
+Move=[Move:mover=1,from=1,to=16,actions=[Move:typeFrom=Cell,from=1,typeTo=Cell,to=16,decision=true]]
+Move=[Move:mover=2,from=49,to=33,actions=[Move:typeFrom=Cell,from=49,typeTo=Cell,to=33,decision=true],[SetPending:value=41],[SetCounter:counter=-1]]
 LEGAL MOVES LIST SIZE = 20
 LEGAL MOVES LIST SIZE = 20
 LEGAL MOVES LIST SIZE = 21
-LEGAL MOVES LIST SIZE = 21
-LEGAL MOVES LIST SIZE = 28
+LEGAL MOVES LIST SIZE = 19
 winner=0
+endtype=NaturalEnd
 rankings=0.0,2.0,2.0
 SANDBOX=false
-LUDII_VERSION=1.1.12
+LUDII_VERSION=1.1.19

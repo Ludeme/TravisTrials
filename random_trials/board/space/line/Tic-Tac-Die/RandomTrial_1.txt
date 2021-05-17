@@ -1,66 +1,14 @@
 game=../Common/res/lud/board/space/line/Tic-Tac-Die.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=6,-82,22,-28,7,-42,97,-122
+RNG internal state=111,-72,-76,-7,-26,81,79,-30
 Move=[Move:mover=0,from=9,to=9,actions=[Add:type=Cell,to=9,what=1]]
-Move=[Move:mover=0,from=5,to=5,actions=[SetStateAndUpdateDice:site=9,state=5],[SetDiceAllEqual:value=true],[Add:type=Cell,to=5,what=2,decision=true]]
-Move=[Move:mover=0,from=8,to=8,actions=[SetStateAndUpdateDice:site=9,state=8],[SetDiceAllEqual:value=true],[Add:type=Cell,to=8,what=3,decision=true]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=5],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=0,from=4,to=4,actions=[SetStateAndUpdateDice:site=9,state=4],[SetDiceAllEqual:value=true],[Add:type=Cell,to=4,what=2,decision=true]]
-Move=[Move:mover=0,from=6,to=6,actions=[SetStateAndUpdateDice:site=9,state=6],[SetDiceAllEqual:value=true],[Add:type=Cell,to=6,what=3,decision=true]]
-Move=[Move:mover=0,from=2,to=2,actions=[SetStateAndUpdateDice:site=9,state=2],[SetDiceAllEqual:value=true],[Add:type=Cell,to=2,what=2,decision=true]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=2],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=4],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=6],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=6],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=5],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=5],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=0,from=1,to=1,actions=[SetStateAndUpdateDice:site=9,state=1],[SetDiceAllEqual:value=true],[Add:type=Cell,to=1,what=3,decision=true]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=2],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=0,from=7,to=7,actions=[SetStateAndUpdateDice:site=9,state=7],[SetDiceAllEqual:value=true],[Add:type=Cell,to=7,what=2,decision=true]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=4],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=7],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=1],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=8],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=7],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=8],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=9,state=7],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=2]]
-Move=[Move:mover=0,from=0,to=0,actions=[SetStateAndUpdateDice:site=9,state=0],[SetDiceAllEqual:value=true],[Add:type=Cell,to=0,what=3,decision=true]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=8],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=4],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=8],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=8],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=8],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=5],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=8],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=4],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
-Move=[Move:mover=0,from=3,to=3,actions=[SetStateAndUpdateDice:site=9,state=3],[SetDiceAllEqual:value=true],[Add:type=Cell,to=3,what=2,decision=true]]
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
+Move=[Move:mover=1,from=8,to=8,actions=[SetStateAndUpdateDice:site=9,state=8],[SetDiceAllEqual:value=true],[Add:type=Cell,to=8,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=0,to=0,actions=[SetStateAndUpdateDice:site=9,state=0],[SetDiceAllEqual:value=true],[Add:type=Cell,to=0,level=0,what=3,decision=true]]
+Move=[Move:mover=1,from=7,to=7,actions=[SetStateAndUpdateDice:site=9,state=7],[SetDiceAllEqual:value=true],[Add:type=Cell,to=7,level=0,what=2,decision=true]]
+Move=[Move:mover=2,from=5,to=5,actions=[SetStateAndUpdateDice:site=9,state=5],[SetDiceAllEqual:value=true],[Add:type=Cell,to=5,level=0,what=3,decision=true]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=9,state=7],[SetDiceAllEqual:value=true],[Pass:decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=6,to=6,actions=[SetStateAndUpdateDice:site=9,state=6],[SetDiceAllEqual:value=true],[Add:type=Cell,to=6,level=0,what=2,decision=true]]
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
@@ -68,6 +16,7 @@ LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 winner=1
+endtype=NaturalEnd
 rankings=0.0,1.0,2.0
 SANDBOX=false
-LUDII_VERSION=1.1.9
+LUDII_VERSION=1.1.19

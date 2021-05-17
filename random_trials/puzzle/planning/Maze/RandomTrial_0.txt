@@ -1,7 +1,7 @@
 game=../Common/res/lud/puzzle/planning/Maze.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=22,-108,-68,95,11,-101,7,7
+RNG internal state=43,-80,40,-119,65,-100,-52,53
 Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Edge,to=0,what=1]]
 Move=[Move:mover=0,from=1,to=1,actions=[Add:type=Edge,to=1,what=1]]
 Move=[Move:mover=0,from=2,to=2,actions=[Add:type=Edge,to=2,what=1]]
@@ -399,15 +399,24 @@ Move=[Move:mover=0,from=749,to=749,actions=[Add:type=Edge,to=749,what=1]]
 Move=[Move:mover=0,from=750,to=750,actions=[Add:type=Edge,to=750,what=1]]
 Move=[Move:mover=0,from=751,to=751,actions=[Add:type=Edge,to=751,what=1]]
 Move=[Move:mover=0,from=336,to=336,actions=[Add:type=Cell,to=336,what=3]]
-Move=[Move:mover=1,from=336,to=316,actions=[Move:typeFrom=Cell,from=336,typeTo=Cell,to=316,decision=true],[Add:type=Cell,to=336,what=2]]
-Move=[Move:mover=1,from=316,to=296,actions=[Move:typeFrom=Cell,from=316,typeTo=Cell,to=296,decision=true],[Add:type=Cell,to=316,what=2]]
-Move=[Move:mover=1,from=296,to=276,actions=[Move:typeFrom=Cell,from=296,typeTo=Cell,to=276,decision=true],[Add:type=Cell,to=296,what=2]]
-Move=[Move:mover=1,actions=[Pass:decision=true]]
-LEGAL MOVES LIST SIZE = 2
+Move=[Move:mover=1,from=336,to=337,actions=[Move:typeFrom=Cell,from=336,typeTo=Cell,to=337,decision=true],[Add:type=Cell,to=336,level=0,what=2]]
+Move=[Move:mover=1,from=337,to=338,actions=[Move:typeFrom=Cell,from=337,typeTo=Cell,to=338,decision=true],[Add:type=Cell,to=337,level=0,what=2]]
+Move=[Move:mover=1,from=338,to=339,actions=[Move:typeFrom=Cell,from=338,typeTo=Cell,to=339,decision=true],[Add:type=Cell,to=338,level=0,what=2]]
+Move=[Move:mover=1,from=339,to=340,actions=[Move:typeFrom=Cell,from=339,typeTo=Cell,to=340,decision=true],[Add:type=Cell,to=339,level=0,what=2]]
+Move=[Move:mover=1,from=340,to=341,actions=[Move:typeFrom=Cell,from=340,typeTo=Cell,to=341,decision=true],[Add:type=Cell,to=340,level=0,what=2]]
+Move=[Move:mover=1,from=341,to=342,actions=[Move:typeFrom=Cell,from=341,typeTo=Cell,to=342,decision=true],[Add:type=Cell,to=341,level=0,what=2]]
+Move=[Move:mover=1,from=342,to=322,actions=[Move:typeFrom=Cell,from=342,typeTo=Cell,to=322,decision=true],[Add:type=Cell,to=342,level=0,what=2]]
+Move=[Move:mover=1,actions=[Pass:decision=true,forced=true]]
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 winner=0
+endtype=NaturalEnd
 rankings=0.0,0.0
 SANDBOX=false
-LUDII_VERSION=1.1.11
+LUDII_VERSION=1.1.19

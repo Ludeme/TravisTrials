@@ -1,13 +1,14 @@
 game=../Common/res/lud/puzzle/planning/Shogi Puzzle.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=100,-38,114,26,58,72,-7,74
+RNG internal state=-87,-92,127,-97,-7,17,78,-78
 Move=[Move:mover=0,from=60,to=60,actions=[Add:type=Cell,to=60,what=15]]
 Move=[Move:mover=0,from=86,to=86,actions=[Add:type=Cell,to=86,what=15]]
 Move=[Move:mover=0,from=78,to=78,actions=[Add:type=Cell,to=78,what=2]]
-Move=[Move:mover=1,from=86,to=36,actions=[Move:typeFrom=Cell,from=86,levelFrom=0,typeTo=Cell,to=36,decision=true]]
+Move=[Move:mover=1,from=86,to=24,actions=[Move:typeFrom=Cell,from=86,levelFrom=0,typeTo=Cell,to=24,decision=true]]
 LEGAL MOVES LIST SIZE = 85
 winner=2
+endtype=NaturalEnd
 rankings=0.0,2.0,1.0
 SANDBOX=false
-LUDII_VERSION=1.0.4
+LUDII_VERSION=1.1.19

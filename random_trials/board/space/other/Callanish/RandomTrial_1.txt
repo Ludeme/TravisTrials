@@ -1,174 +1,199 @@
 game=../Common/res/lud/board/space/other/Callanish.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=76,-5,6,-127,-19,117,107,109
-Move=[Move:mover=1,from=36,to=36,actions=[Add:type=Cell,to=36,level=0,what=1,decision=true]]
-Move=[Move:mover=2,from=53,to=53,actions=[Add:type=Cell,to=53,level=0,what=2,decision=true]]
-Move=[Move:mover=1,from=36,to=36,actions=[Select:typeFrom=Cell,from=36,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=36],[SetState:type=Cell,to=36,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=19,to=19,actions=[Add:type=Cell,to=19,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=29,to=29,actions=[Add:type=Cell,to=29,level=1,what=1,decision=true],[Remove:type=Cell,to=36]]
-Move=[Move:mover=2,from=53,to=53,actions=[Select:typeFrom=Cell,from=53,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=53],[SetState:type=Cell,to=53,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=70,to=70,actions=[Add:type=Cell,to=70,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=42,to=42,actions=[Add:type=Cell,to=42,level=0,what=2,decision=true],[Remove:type=Cell,to=53]]
-Move=[Move:mover=1,from=29,to=29,actions=[Select:typeFrom=Cell,from=29,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=29],[SetState:type=Cell,to=29,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=12,to=12,actions=[Add:type=Cell,to=12,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=36,to=36,actions=[Add:type=Cell,to=36,level=0,what=1,decision=true],[Remove:type=Cell,to=29]]
-Move=[Move:mover=2,from=42,to=42,actions=[Select:typeFrom=Cell,from=42,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=42],[SetState:type=Cell,to=42,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=53,to=53,actions=[Add:type=Cell,to=53,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=25,to=25,actions=[Add:type=Cell,to=25,level=0,what=2,decision=true],[Remove:type=Cell,to=42]]
-Move=[Move:mover=1,from=36,to=36,actions=[Select:typeFrom=Cell,from=36,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=36],[SetState:type=Cell,to=36,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=29,to=29,actions=[Add:type=Cell,to=29,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=47,to=47,actions=[Add:type=Cell,to=47,level=1,what=1,decision=true],[Remove:type=Cell,to=36]]
-Move=[Move:mover=2,from=53,to=53,actions=[Select:typeFrom=Cell,from=53,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=53],[SetState:type=Cell,to=53,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=42,to=42,actions=[Add:type=Cell,to=42,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=60,to=60,actions=[Add:type=Cell,to=60,level=0,what=2,decision=true],[Remove:type=Cell,to=53]]
-Move=[Move:mover=1,from=29,to=29,actions=[Select:typeFrom=Cell,from=29,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=29],[SetState:type=Cell,to=29,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=36,to=36,actions=[Add:type=Cell,to=36,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=46,to=46,actions=[Add:type=Cell,to=46,level=0,what=1,decision=true],[Remove:type=Cell,to=29]]
+RNG internal state=-118,101,-105,122,-62,-88,-58,43
+Move=[Move:mover=1,from=76,to=76,actions=[Add:type=Cell,to=76,level=0,what=1,decision=true]]
+Move=[Move:mover=2,from=43,to=43,actions=[Add:type=Cell,to=43,level=0,what=2,decision=true]]
+Move=[Move:mover=1,from=76,to=76,actions=[Select:typeFrom=Cell,from=76,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=76],[SetState:type=Cell,to=76,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=65,to=65,actions=[Add:type=Cell,to=65,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=69,to=69,actions=[Add:type=Cell,to=69,level=0,what=1,decision=true],[Remove:type=Cell,to=76]]
+Move=[Move:mover=2,from=43,to=43,actions=[Select:typeFrom=Cell,from=43,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=43],[SetState:type=Cell,to=43,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=32,to=32,actions=[Add:type=Cell,to=32,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=60,to=60,actions=[Add:type=Cell,to=60,level=0,what=2,decision=true],[Remove:type=Cell,to=43]]
+Move=[Move:mover=1,from=65,to=65,actions=[Select:typeFrom=Cell,from=65,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=65],[SetState:type=Cell,to=65,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=58,to=58,actions=[Add:type=Cell,to=58,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=46,to=46,actions=[Add:type=Cell,to=46,level=0,what=1,decision=true],[Remove:type=Cell,to=65]]
+Move=[Move:mover=2,from=32,to=32,actions=[Select:typeFrom=Cell,from=32,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=32],[SetState:type=Cell,to=32,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=43,to=43,actions=[Add:type=Cell,to=43,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=21,to=21,actions=[Add:type=Cell,to=21,level=0,what=2,decision=true],[Remove:type=Cell,to=32]]
+Move=[Move:mover=1,from=69,to=69,actions=[Select:typeFrom=Cell,from=69,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=69],[SetState:type=Cell,to=69,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=76,to=76,actions=[Add:type=Cell,to=76,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=52,to=52,actions=[Add:type=Cell,to=52,level=0,what=1,decision=true],[Remove:type=Cell,to=69]]
+Move=[Move:mover=2,from=43,to=43,actions=[Select:typeFrom=Cell,from=43,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=43],[SetState:type=Cell,to=43,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=50,to=50,actions=[Add:type=Cell,to=50,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=24,to=24,actions=[Add:type=Cell,to=24,level=0,what=2,decision=true],[Remove:type=Cell,to=43]]
+Move=[Move:mover=1,from=76,to=76,actions=[Select:typeFrom=Cell,from=76,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=76],[SetState:type=Cell,to=76,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=57,to=57,actions=[Add:type=Cell,to=57,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=65,to=65,actions=[Add:type=Cell,to=65,level=0,what=1,decision=true],[Remove:type=Cell,to=76]]
 Move=[Move:mover=2,from=60,to=60,actions=[Select:typeFrom=Cell,from=60,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=60],[SetState:type=Cell,to=60,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=79,to=79,actions=[Add:type=Cell,to=79,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=53,to=53,actions=[Add:type=Cell,to=53,level=0,what=2,decision=true],[Remove:type=Cell,to=60]]
+Move=[Move:mover=2,from=77,to=77,actions=[Add:type=Cell,to=77,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=67,to=67,actions=[Add:type=Cell,to=67,level=0,what=2,decision=true],[Remove:type=Cell,to=60]]
 Move=[Move:mover=1,from=46,to=46,actions=[Select:typeFrom=Cell,from=46,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=46],[SetState:type=Cell,to=46,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=63,to=63,actions=[Add:type=Cell,to=63,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=57,to=57,actions=[Add:type=Cell,to=57,level=0,what=1,decision=true],[Remove:type=Cell,to=46]]
-Move=[Move:mover=2,from=25,to=25,actions=[Select:typeFrom=Cell,from=25,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=25],[SetState:type=Cell,to=25,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=1,from=29,to=29,actions=[Add:type=Cell,to=29,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=63,to=63,actions=[Add:type=Cell,to=63,level=0,what=1,decision=true],[Remove:type=Cell,to=46]]
+Move=[Move:mover=2,from=24,to=24,actions=[Select:typeFrom=Cell,from=24,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=24],[SetState:type=Cell,to=24,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=35,to=35,actions=[Add:type=Cell,to=35,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=5,to=5,actions=[Add:type=Cell,to=5,level=0,what=2,decision=true],[Remove:type=Cell,to=24]]
+Move=[Move:mover=1,from=29,to=29,actions=[Select:typeFrom=Cell,from=29,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=29],[SetState:type=Cell,to=29,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=48,to=48,actions=[Add:type=Cell,to=48,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=12,to=12,actions=[Add:type=Cell,to=12,level=0,what=1,decision=true],[Remove:type=Cell,to=29]]
+Move=[Move:mover=2,from=21,to=21,actions=[Select:typeFrom=Cell,from=21,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=21],[SetState:type=Cell,to=21,state=1],[SetNextPlayer:player=2]]
 Move=[Move:mover=2,from=14,to=14,actions=[Add:type=Cell,to=14,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=6,to=6,actions=[Add:type=Cell,to=6,level=0,what=2,decision=true],[Remove:type=Cell,to=25]]
-Move=[Move:mover=1,from=57,to=57,actions=[Select:typeFrom=Cell,from=57,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=57],[SetState:type=Cell,to=57,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=68,to=68,actions=[Add:type=Cell,to=68,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=76,to=76,actions=[Add:type=Cell,to=76,level=0,what=1,decision=true],[Remove:type=Cell,to=57]]
-Move=[Move:mover=2,from=79,to=79,actions=[Select:typeFrom=Cell,from=79,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=79],[SetState:type=Cell,to=79,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=68,to=68,actions=[Add:type=Cell,to=68,level=1,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=60,to=60,actions=[Add:type=Cell,to=60,level=0,what=2,decision=true],[Remove:type=Cell,to=79]]
-Move=[Move:mover=1,from=19,to=19,actions=[Select:typeFrom=Cell,from=19,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=19],[SetState:type=Cell,to=19,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=30,to=30,actions=[Add:type=Cell,to=30,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=2,to=2,actions=[Add:type=Cell,to=2,level=0,what=1,decision=true],[Remove:type=Cell,to=19]]
-Move=[Move:mover=2,from=42,to=42,actions=[Select:typeFrom=Cell,from=42,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=42],[SetState:type=Cell,to=42,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=23,to=23,actions=[Add:type=Cell,to=23,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=59,to=59,actions=[Add:type=Cell,to=59,level=0,what=2,decision=true],[Remove:type=Cell,to=42]]
-Move=[Move:mover=1,from=2,to=2,actions=[Select:typeFrom=Cell,from=2,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=2],[SetState:type=Cell,to=2,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=19,to=19,actions=[Add:type=Cell,to=19,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=9,to=9,actions=[Add:type=Cell,to=9,level=0,what=1,decision=true],[Remove:type=Cell,to=2]]
+Move=[Move:mover=2,from=10,to=10,actions=[Add:type=Cell,to=10,level=0,what=2,decision=true],[Remove:type=Cell,to=21]]
+Move=[Move:mover=1,from=12,to=12,actions=[Select:typeFrom=Cell,from=12,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=12],[SetState:type=Cell,to=12,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=29,to=29,actions=[Add:type=Cell,to=29,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=19,to=19,actions=[Add:type=Cell,to=19,level=0,what=1,decision=true],[Remove:type=Cell,to=12]]
 Move=[Move:mover=2,from=14,to=14,actions=[Select:typeFrom=Cell,from=14,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=14],[SetState:type=Cell,to=14,state=1],[SetNextPlayer:player=2]]
 Move=[Move:mover=2,from=31,to=31,actions=[Add:type=Cell,to=31,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=33,to=33,actions=[Add:type=Cell,to=33,level=0,what=2,decision=true],[Remove:type=Cell,to=14]]
-Move=[Move:mover=1,from=47,to=47,actions=[Select:typeFrom=Cell,from=47,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=47],[SetState:type=Cell,to=47,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=64,to=64,actions=[Add:type=Cell,to=64,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=54,to=54,actions=[Add:type=Cell,to=54,level=0,what=1,decision=true],[Remove:type=Cell,to=47]]
-Move=[Move:mover=2,from=23,to=23,actions=[Select:typeFrom=Cell,from=23,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=23],[SetState:type=Cell,to=23,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=4,to=4,actions=[Add:type=Cell,to=4,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=40,to=40,actions=[Add:type=Cell,to=40,level=0,what=2,decision=true],[Remove:type=Cell,to=23]]
-Move=[Move:mover=1,from=63,to=63,actions=[Select:typeFrom=Cell,from=63,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=63],[SetState:type=Cell,to=63,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=2,from=25,to=25,actions=[Add:type=Cell,to=25,level=0,what=2,decision=true],[Remove:type=Cell,to=14]]
+Move=[Move:mover=1,from=57,to=57,actions=[Select:typeFrom=Cell,from=57,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=57],[SetState:type=Cell,to=57,state=1],[SetNextPlayer:player=1]]
 Move=[Move:mover=1,from=46,to=46,actions=[Add:type=Cell,to=46,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=56,to=56,actions=[Add:type=Cell,to=56,level=0,what=1,decision=true],[Remove:type=Cell,to=63]]
-Move=[Move:mover=2,from=40,to=40,actions=[Select:typeFrom=Cell,from=40,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=40],[SetState:type=Cell,to=40,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=29,to=29,actions=[Add:type=Cell,to=29,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=47,to=47,actions=[Add:type=Cell,to=47,level=0,what=2,decision=true],[Remove:type=Cell,to=40]]
-Move=[Move:mover=1,from=36,to=36,actions=[Select:typeFrom=Cell,from=36,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=36],[SetState:type=Cell,to=36,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=55,to=55,actions=[Add:type=Cell,to=55,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=29,to=29,actions=[Add:type=Cell,to=29,level=1,what=1,decision=true],[Remove:type=Cell,to=36]]
+Move=[Move:mover=1,from=40,to=40,actions=[Add:type=Cell,to=40,level=0,what=1,decision=true],[Remove:type=Cell,to=57]]
+Move=[Move:mover=2,from=35,to=35,actions=[Select:typeFrom=Cell,from=35,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=35],[SetState:type=Cell,to=35,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=42,to=42,actions=[Add:type=Cell,to=42,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=24,to=24,actions=[Add:type=Cell,to=24,level=0,what=2,decision=true],[Remove:type=Cell,to=35]]
+Move=[Move:mover=1,from=29,to=29,actions=[Select:typeFrom=Cell,from=29,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=29],[SetState:type=Cell,to=29,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=10,to=10,actions=[Add:type=Cell,to=10,level=1,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=12,to=12,actions=[Add:type=Cell,to=12,level=0,what=1,decision=true],[Remove:type=Cell,to=29]]
+Move=[Move:mover=2,from=77,to=77,actions=[Select:typeFrom=Cell,from=77,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=77],[SetState:type=Cell,to=77,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=70,to=70,actions=[Add:type=Cell,to=70,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=58,to=58,actions=[Add:type=Cell,to=58,level=1,what=2,decision=true],[Remove:type=Cell,to=77]]
+Move=[Move:mover=1,from=12,to=12,actions=[Select:typeFrom=Cell,from=12,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=12],[SetState:type=Cell,to=12,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=5,to=5,actions=[Add:type=Cell,to=5,level=1,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=29,to=29,actions=[Add:type=Cell,to=29,level=0,what=1,decision=true],[Remove:type=Cell,to=12]]
 Move=[Move:mover=2,from=31,to=31,actions=[Select:typeFrom=Cell,from=31,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=31],[SetState:type=Cell,to=31,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=12,to=12,actions=[Add:type=Cell,to=12,level=1,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=48,to=48,actions=[Add:type=Cell,to=48,level=0,what=2,decision=true],[Remove:type=Cell,to=31]]
-Move=[Move:mover=1,from=55,to=55,actions=[Select:typeFrom=Cell,from=55,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=55],[SetState:type=Cell,to=55,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=48,to=48,actions=[Add:type=Cell,to=48,level=1,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=66,to=66,actions=[Add:type=Cell,to=66,level=0,what=1,decision=true],[Remove:type=Cell,to=55]]
-Move=[Move:mover=2,from=68,to=68,actions=[Select:typeFrom=Cell,from=68,levelFrom=1,decision=true],[SetVar:name=CondemnedSite,value=68],[SetState:type=Cell,to=68,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=20,to=20,actions=[Add:type=Cell,to=20,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=38,to=38,actions=[Add:type=Cell,to=38,level=0,what=2,decision=true],[Remove:type=Cell,to=31]]
+Move=[Move:mover=1,from=52,to=52,actions=[Select:typeFrom=Cell,from=52,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=52],[SetState:type=Cell,to=52,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=41,to=41,actions=[Add:type=Cell,to=41,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=33,to=33,actions=[Add:type=Cell,to=33,level=0,what=1,decision=true],[Remove:type=Cell,to=52]]
+Move=[Move:mover=2,from=20,to=20,actions=[Select:typeFrom=Cell,from=20,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=20],[SetState:type=Cell,to=20,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=13,to=13,actions=[Add:type=Cell,to=13,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=1,to=1,actions=[Add:type=Cell,to=1,level=0,what=2,decision=true],[Remove:type=Cell,to=20]]
+Move=[Move:mover=1,from=5,to=5,actions=[Select:typeFrom=Cell,from=5,levelFrom=1,decision=true],[SetVar:name=CondemnedSite,value=5],[SetState:type=Cell,to=5,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=22,to=22,actions=[Add:type=Cell,to=22,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=16,to=16,actions=[Add:type=Cell,to=16,level=0,what=1,decision=true],[Remove:type=Cell,to=5]]
+Move=[Move:mover=2,from=42,to=42,actions=[Select:typeFrom=Cell,from=42,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=42],[SetState:type=Cell,to=42,state=1],[SetNextPlayer:player=2]]
 Move=[Move:mover=2,from=61,to=61,actions=[Add:type=Cell,to=61,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=51,to=51,actions=[Add:type=Cell,to=51,level=0,what=2,decision=true],[Remove:type=Cell,to=68]]
-Move=[Move:mover=1,from=9,to=9,actions=[Select:typeFrom=Cell,from=9,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=9],[SetState:type=Cell,to=9,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=20,to=20,actions=[Add:type=Cell,to=20,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=2,to=2,actions=[Add:type=Cell,to=2,level=0,what=1,decision=true],[Remove:type=Cell,to=9]]
+Move=[Move:mover=2,from=35,to=35,actions=[Add:type=Cell,to=35,level=0,what=2,decision=true],[Remove:type=Cell,to=42]]
+Move=[Move:mover=1,from=16,to=16,actions=[Select:typeFrom=Cell,from=16,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=16],[SetState:type=Cell,to=16,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=23,to=23,actions=[Add:type=Cell,to=23,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=5,to=5,actions=[Add:type=Cell,to=5,level=1,what=1,decision=true],[Remove:type=Cell,to=16]]
+Move=[Move:mover=2,from=67,to=67,actions=[Select:typeFrom=Cell,from=67,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=67],[SetState:type=Cell,to=67,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=60,to=60,actions=[Add:type=Cell,to=60,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=78,to=78,actions=[Add:type=Cell,to=78,level=0,what=2,decision=true],[Remove:type=Cell,to=67]]
+Move=[Move:mover=1,from=63,to=63,actions=[Select:typeFrom=Cell,from=63,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=63],[SetState:type=Cell,to=63,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=56,to=56,actions=[Add:type=Cell,to=56,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=74,to=74,actions=[Add:type=Cell,to=74,level=0,what=1,decision=true],[Remove:type=Cell,to=63]]
 Move=[Move:mover=2,from=61,to=61,actions=[Select:typeFrom=Cell,from=61,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=61],[SetState:type=Cell,to=61,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=44,to=44,actions=[Add:type=Cell,to=44,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=78,to=78,actions=[Add:type=Cell,to=78,level=0,what=2,decision=true],[Remove:type=Cell,to=61]]
-Move=[Move:mover=1,from=54,to=54,actions=[Select:typeFrom=Cell,from=54,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=54],[SetState:type=Cell,to=54,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=2,from=42,to=42,actions=[Add:type=Cell,to=42,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=68,to=68,actions=[Add:type=Cell,to=68,level=0,what=2,decision=true],[Remove:type=Cell,to=61]]
+Move=[Move:mover=1,from=56,to=56,actions=[Select:typeFrom=Cell,from=56,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=56],[SetState:type=Cell,to=56,state=1],[SetNextPlayer:player=1]]
 Move=[Move:mover=1,from=37,to=37,actions=[Add:type=Cell,to=37,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=47,to=47,actions=[Add:type=Cell,to=47,level=1,what=1,decision=true],[Remove:type=Cell,to=54]]
+Move=[Move:mover=1,from=67,to=67,actions=[Add:type=Cell,to=67,level=0,what=1,decision=true],[Remove:type=Cell,to=56]]
+Move=[Move:mover=2,from=68,to=68,actions=[Select:typeFrom=Cell,from=68,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=68],[SetState:type=Cell,to=68,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=51,to=51,actions=[Add:type=Cell,to=51,level=0,what=2,decision=true],[SetPending:],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=75,to=75,actions=[Add:type=Cell,to=75,level=0,what=2,decision=true],[Remove:type=Cell,to=68]]
+Move=[Move:mover=1,from=46,to=46,actions=[Select:typeFrom=Cell,from=46,levelFrom=0,decision=true],[SetVar:name=CondemnedSite,value=46],[SetState:type=Cell,to=46,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=39,to=39,actions=[Add:type=Cell,to=39,level=0,what=1,decision=true],[SetPending:],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=27,to=27,actions=[Add:type=Cell,to=27,level=0,what=1,decision=true],[Remove:type=Cell,to=46]]
 LEGAL MOVES LIST SIZE = 81
 LEGAL MOVES LIST SIZE = 80
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 4
 LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 4
-LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 8
-LEGAL MOVES LIST SIZE = 7
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 8
-LEGAL MOVES LIST SIZE = 7
-LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 4
-LEGAL MOVES LIST SIZE = 7
 LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 4
 LEGAL MOVES LIST SIZE = 8
 LEGAL MOVES LIST SIZE = 7
 LEGAL MOVES LIST SIZE = 5
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 5
-LEGAL MOVES LIST SIZE = 5
-LEGAL MOVES LIST SIZE = 5
 LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 7
 LEGAL MOVES LIST SIZE = 6
 LEGAL MOVES LIST SIZE = 8
 LEGAL MOVES LIST SIZE = 7
 LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 4
-LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 7
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 7
-LEGAL MOVES LIST SIZE = 4
-LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 7
 LEGAL MOVES LIST SIZE = 6
 LEGAL MOVES LIST SIZE = 5
 LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 9
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 9
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 10
 LEGAL MOVES LIST SIZE = 6
 LEGAL MOVES LIST SIZE = 5
 LEGAL MOVES LIST SIZE = 9
-LEGAL MOVES LIST SIZE = 7
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 9
-LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 10
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 5
-LEGAL MOVES LIST SIZE = 10
-LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 10
 LEGAL MOVES LIST SIZE = 8
 LEGAL MOVES LIST SIZE = 7
-LEGAL MOVES LIST SIZE = 10
+LEGAL MOVES LIST SIZE = 11
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 11
+LEGAL MOVES LIST SIZE = 7
 LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 5
-LEGAL MOVES LIST SIZE = 10
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 5
 LEGAL MOVES LIST SIZE = 12
 LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 10
+LEGAL MOVES LIST SIZE = 11
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 13
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 13
 LEGAL MOVES LIST SIZE = 6
 LEGAL MOVES LIST SIZE = 5
-LEGAL MOVES LIST SIZE = 13
+LEGAL MOVES LIST SIZE = 15
 LEGAL MOVES LIST SIZE = 4
 LEGAL MOVES LIST SIZE = 3
 winner=2
+endtype=NaturalEnd
 rankings=0.0,2.0,1.0
 SANDBOX=false
-LUDII_VERSION=1.1.13
+LUDII_VERSION=1.1.19

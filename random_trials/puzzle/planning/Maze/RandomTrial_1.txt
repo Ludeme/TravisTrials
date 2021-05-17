@@ -1,7 +1,7 @@
 game=../Common/res/lud/puzzle/planning/Maze.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=-15,40,-94,40,-10,-120,-77,108
+RNG internal state=17,-10,46,101,-77,61,-127,-95
 Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Edge,to=0,what=1]]
 Move=[Move:mover=0,from=1,to=1,actions=[Add:type=Edge,to=1,what=1]]
 Move=[Move:mover=0,from=2,to=2,actions=[Add:type=Edge,to=2,what=1]]
@@ -399,24 +399,17 @@ Move=[Move:mover=0,from=749,to=749,actions=[Add:type=Edge,to=749,what=1]]
 Move=[Move:mover=0,from=750,to=750,actions=[Add:type=Edge,to=750,what=1]]
 Move=[Move:mover=0,from=751,to=751,actions=[Add:type=Edge,to=751,what=1]]
 Move=[Move:mover=0,from=336,to=336,actions=[Add:type=Cell,to=336,what=3]]
-Move=[Move:mover=1,from=336,to=337,actions=[Move:typeFrom=Cell,from=336,typeTo=Cell,to=337,decision=true],[Add:type=Cell,to=336,what=2]]
-Move=[Move:mover=1,from=337,to=338,actions=[Move:typeFrom=Cell,from=337,typeTo=Cell,to=338,decision=true],[Add:type=Cell,to=337,what=2]]
-Move=[Move:mover=1,from=338,to=339,actions=[Move:typeFrom=Cell,from=338,typeTo=Cell,to=339,decision=true],[Add:type=Cell,to=338,what=2]]
-Move=[Move:mover=1,from=339,to=340,actions=[Move:typeFrom=Cell,from=339,typeTo=Cell,to=340,decision=true],[Add:type=Cell,to=339,what=2]]
-Move=[Move:mover=1,from=340,to=320,actions=[Move:typeFrom=Cell,from=340,typeTo=Cell,to=320,decision=true],[Add:type=Cell,to=340,what=2]]
-Move=[Move:mover=1,from=320,to=300,actions=[Move:typeFrom=Cell,from=320,typeTo=Cell,to=300,decision=true],[Add:type=Cell,to=320,what=2]]
-Move=[Move:mover=1,from=300,to=299,actions=[Move:typeFrom=Cell,from=300,typeTo=Cell,to=299,decision=true],[Add:type=Cell,to=300,what=2]]
-Move=[Move:mover=1,from=299,to=298,actions=[Move:typeFrom=Cell,from=299,typeTo=Cell,to=298,decision=true],[Add:type=Cell,to=299,what=2]]
-Move=[Move:mover=1,from=298,to=297,actions=[Move:typeFrom=Cell,from=298,typeTo=Cell,to=297,decision=true],[Add:type=Cell,to=298,what=2]]
-Move=[Move:mover=1,from=297,to=277,actions=[Move:typeFrom=Cell,from=297,typeTo=Cell,to=277,decision=true],[Add:type=Cell,to=297,what=2]]
-Move=[Move:mover=1,from=277,to=257,actions=[Move:typeFrom=Cell,from=277,typeTo=Cell,to=257,decision=true],[Add:type=Cell,to=277,what=2]]
-Move=[Move:mover=1,from=257,to=256,actions=[Move:typeFrom=Cell,from=257,typeTo=Cell,to=256,decision=true],[Add:type=Cell,to=257,what=2]]
-Move=[Move:mover=1,from=256,to=236,actions=[Move:typeFrom=Cell,from=256,typeTo=Cell,to=236,decision=true],[Add:type=Cell,to=256,what=2]]
-Move=[Move:mover=1,from=236,to=216,actions=[Move:typeFrom=Cell,from=236,typeTo=Cell,to=216,decision=true],[Add:type=Cell,to=236,what=2]]
-Move=[Move:mover=1,from=216,to=196,actions=[Move:typeFrom=Cell,from=216,typeTo=Cell,to=196,decision=true],[Add:type=Cell,to=216,what=2]]
-Move=[Move:mover=1,from=196,to=176,actions=[Move:typeFrom=Cell,from=196,typeTo=Cell,to=176,decision=true],[Add:type=Cell,to=196,what=2]]
-Move=[Move:mover=1,from=176,to=177,actions=[Move:typeFrom=Cell,from=176,typeTo=Cell,to=177,decision=true],[Add:type=Cell,to=176,what=2]]
-Move=[Move:mover=1,actions=[Pass:decision=true]]
+Move=[Move:mover=1,from=336,to=337,actions=[Move:typeFrom=Cell,from=336,typeTo=Cell,to=337,decision=true],[Add:type=Cell,to=336,level=0,what=2]]
+Move=[Move:mover=1,from=337,to=338,actions=[Move:typeFrom=Cell,from=337,typeTo=Cell,to=338,decision=true],[Add:type=Cell,to=337,level=0,what=2]]
+Move=[Move:mover=1,from=338,to=339,actions=[Move:typeFrom=Cell,from=338,typeTo=Cell,to=339,decision=true],[Add:type=Cell,to=338,level=0,what=2]]
+Move=[Move:mover=1,from=339,to=340,actions=[Move:typeFrom=Cell,from=339,typeTo=Cell,to=340,decision=true],[Add:type=Cell,to=339,level=0,what=2]]
+Move=[Move:mover=1,from=340,to=320,actions=[Move:typeFrom=Cell,from=340,typeTo=Cell,to=320,decision=true],[Add:type=Cell,to=340,level=0,what=2]]
+Move=[Move:mover=1,from=320,to=321,actions=[Move:typeFrom=Cell,from=320,typeTo=Cell,to=321,decision=true],[Add:type=Cell,to=320,level=0,what=2]]
+Move=[Move:mover=1,from=321,to=301,actions=[Move:typeFrom=Cell,from=321,typeTo=Cell,to=301,decision=true],[Add:type=Cell,to=321,level=0,what=2]]
+Move=[Move:mover=1,from=301,to=302,actions=[Move:typeFrom=Cell,from=301,typeTo=Cell,to=302,decision=true],[Add:type=Cell,to=301,level=0,what=2]]
+Move=[Move:mover=1,from=302,to=303,actions=[Move:typeFrom=Cell,from=302,typeTo=Cell,to=303,decision=true],[Add:type=Cell,to=302,level=0,what=2]]
+Move=[Move:mover=1,from=303,to=283,actions=[Move:typeFrom=Cell,from=303,typeTo=Cell,to=283,decision=true],[Add:type=Cell,to=303,level=0,what=2]]
+Move=[Move:mover=1,actions=[Pass:decision=true,forced=true]]
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
@@ -425,17 +418,11 @@ LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 winner=0
+endtype=NaturalEnd
 rankings=0.0,0.0
 SANDBOX=false
-LUDII_VERSION=1.1.11
+LUDII_VERSION=1.1.19

@@ -1,7 +1,7 @@
 game=../Common/res/lud/board/race/escape/Yahoudieh.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=-52,33,22,-104,-3,38,39,-60
+RNG internal state=84,-79,-51,-24,120,-37,-116,9
 Move=[Move:mover=0,from=26,to=26,actions=[Add:type=Cell,to=26,level=0,what=1]]
 Move=[Move:mover=0,from=27,to=27,actions=[Add:type=Cell,to=27,level=0,what=2]]
 Move=[Move:mover=0,from=7,to=7,actions=[Add:type=Vertex,to=7,level=0,what=3,stack=true]]
@@ -34,110 +34,106 @@ Move=[Move:mover=0,from=17,to=17,actions=[Add:type=Vertex,to=17,level=0,what=4,s
 Move=[Move:mover=0,from=17,to=17,actions=[Add:type=Vertex,to=17,level=1,what=4,stack=true]]
 Move=[Move:mover=0,from=18,to=18,actions=[Add:type=Vertex,to=18,level=0,what=4,stack=true]]
 Move=[Move:mover=0,from=18,to=18,actions=[Add:type=Vertex,to=18,level=1,what=4,stack=true]]
-Move=[Move:mover=1,from=7,to=7,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=7,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=7,state=2],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=10,to=10,actions=[Select:typeFrom=Vertex,from=10,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=10,state=1]]
-Move=[Move:mover=2,from=17,to=17,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=true],[Select:typeFrom=Vertex,from=17,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=17,state=2],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[Pass:decision=true]]
-Move=[Move:mover=1,from=9,to=9,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=9,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=9,state=2],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=10,to=10,actions=[Select:typeFrom=Vertex,from=10,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=10,state=2]]
-Move=[Move:mover=2,from=14,to=14,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=14,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=14,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[Pass:decision=true]]
-Move=[Move:mover=1,from=8,to=8,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=8,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=8,state=2],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[Pass:decision=true]]
-Move=[Move:mover=2,from=16,to=16,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=16,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=16,state=2],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[Pass:decision=true]]
-Move=[Move:mover=1,from=12,to=12,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=12,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=12,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[Pass:decision=true]]
-Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=13,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=13,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=15,to=15,actions=[Select:typeFrom=Vertex,from=15,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=15,state=1]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=true],[Pass:decision=true]]
-Move=[Move:mover=2,from=14,to=14,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=14,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=14,state=2],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[Pass:decision=true]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=2,from=15,to=15,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=15,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=15,state=2],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=13,to=13,actions=[Select:typeFrom=Vertex,from=13,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=13,state=2]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=2,from=18,to=18,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=18,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=18,state=2],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=16,to=16,actions=[Select:typeFrom=Vertex,from=16,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=16,state=0]]
-Move=[Move:mover=1,from=11,to=11,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=11,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=11,state=1],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[Pass:decision=true]]
-Move=[Move:mover=2,from=15,to=15,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=15,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=15,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=18,to=18,actions=[Select:typeFrom=Vertex,from=18,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=18,state=0]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=true],[Pass:decision=true]]
-Move=[Move:mover=2,from=15,to=15,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=15,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=15,state=0],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=13,to=13,actions=[Select:typeFrom=Vertex,from=13,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=13,state=1]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=13,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=13,state=0],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[Pass:decision=true]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=2,from=14,to=14,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=14,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=14,state=1],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,actions=[Pass:decision=true]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=2,from=17,to=17,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=17,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=17,state=0],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=16,to=15,actions=[Move:typeFrom=Vertex,from=16,levelFrom=1,typeTo=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=2,from=14,to=14,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=14,to=14,actions=[Remove:type=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
-Move=[Move:mover=1,from=12,to=12,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=12,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=12,state=2],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,actions=[Pass:decision=true]]
-Move=[Move:mover=2,from=15,to=15,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=15,to=15,actions=[Remove:type=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
-Move=[Move:mover=1,from=11,to=11,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=11,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=11,state=2],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=8,to=8,actions=[Select:typeFrom=Vertex,from=8,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=8,state=0]]
-Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=16,to=13,actions=[Move:typeFrom=Vertex,from=16,levelFrom=0,typeTo=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
-Move=[Move:mover=1,from=9,to=9,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=9,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=9,state=0],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=12,to=12,actions=[Select:typeFrom=Vertex,from=12,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=12,state=1]]
-Move=[Move:mover=2,from=15,to=15,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=14,to=14,actions=[Remove:type=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
-Move=[Move:mover=1,from=7,to=7,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=7,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=7,state=0],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=12,to=12,actions=[Select:typeFrom=Vertex,from=12,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=12,state=0]]
-Move=[Move:mover=2,from=17,to=17,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=17,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=15,to=15,actions=[Remove:type=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
-Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Pass:decision=true]]
-Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=18,to=14,actions=[Move:typeFrom=Vertex,from=18,levelFrom=1,typeTo=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
 Move=[Move:mover=1,from=10,to=10,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=10,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=10,state=1],[SetNextPlayer:player=1]]
 Move=[Move:mover=1,from=11,to=11,actions=[Select:typeFrom=Vertex,from=11,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=11,state=1]]
-Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=14,to=14,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=14,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=14,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=15,to=15,actions=[Select:typeFrom=Vertex,from=15,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=15,state=1]]
+Move=[Move:mover=1,from=7,to=7,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=7,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=7,state=2],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=11,to=11,actions=[Select:typeFrom=Vertex,from=11,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=11,state=2]]
+Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=13,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=13,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=16,to=16,actions=[Select:typeFrom=Vertex,from=16,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=16,state=2]]
+Move=[Move:mover=1,from=10,to=10,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=10,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=10,state=2],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=12,to=12,actions=[Select:typeFrom=Vertex,from=12,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=12,state=1]]
+Move=[Move:mover=2,from=15,to=15,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=15,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=15,state=2],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=1,from=12,to=12,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=12,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=12,state=2],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=14,to=14,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=14,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=14,state=2],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=13,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=13,state=2],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=17,to=17,actions=[Select:typeFrom=Vertex,from=17,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=17,state=2]]
+Move=[Move:mover=1,from=8,to=8,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=8,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=8,state=2],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=true],[Pass:decision=true,forced=true]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=18,to=18,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=18,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=18,state=2],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=15,to=15,actions=[Select:typeFrom=Vertex,from=15,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=15,state=1]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=15,to=15,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=15,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=15,state=0],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=18,to=18,actions=[Select:typeFrom=Vertex,from=18,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=18,state=0]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=true],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=13,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=13,state=1],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=14,to=14,actions=[Select:typeFrom=Vertex,from=14,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=14,state=1]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=true],[Select:typeFrom=Vertex,from=13,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=13,state=0],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=true],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=16,to=16,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=16,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=16,state=0],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=17,to=17,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=17,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=17,state=0],[SetNextPlayer:player=2]]
 Move=[Move:mover=2,from=14,to=14,actions=[Remove:type=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
-Move=[Move:mover=1,from=9,to=11,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Vertex,from=9,levelFrom=1,typeTo=Vertex,to=11,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=8,to=8,actions=[Remove:type=Vertex,to=8,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=18,to=14,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Vertex,from=18,levelFrom=1,typeTo=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=15,to=14,actions=[Move:typeFrom=Vertex,from=15,levelFrom=2,typeTo=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
+Move=[Move:mover=1,from=9,to=9,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=9,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=9,state=2],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=12,to=12,actions=[Select:typeFrom=Vertex,from=12,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=12,state=1]]
+Move=[Move:mover=2,from=17,to=15,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Vertex,from=17,levelFrom=1,typeTo=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=16,to=15,actions=[Move:typeFrom=Vertex,from=16,levelFrom=1,typeTo=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,from=10,to=10,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=10,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=10,state=1],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=11,to=11,actions=[Select:typeFrom=Vertex,from=11,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=11,state=1]]
+Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=16,to=13,actions=[Move:typeFrom=Vertex,from=16,levelFrom=0,typeTo=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,from=10,to=10,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=true],[Select:typeFrom=Vertex,from=10,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=10,state=0],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=15,to=15,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=18,to=15,actions=[Move:typeFrom=Vertex,from=18,levelFrom=0,typeTo=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,from=7,to=7,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=7,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=7,state=0],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=12,to=12,actions=[Select:typeFrom=Vertex,from=12,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=12,state=0]]
+Move=[Move:mover=2,from=15,to=15,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=15,to=14,actions=[Move:typeFrom=Vertex,from=15,levelFrom=2,typeTo=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,from=11,to=11,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=11,levelFrom=2,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=11,state=0],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=9,to=9,actions=[Select:typeFrom=Vertex,from=9,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetState:type=Vertex,to=9,state=0]]
+Move=[Move:mover=2,from=15,to=13,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Vertex,from=15,levelFrom=1,typeTo=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=15,to=15,actions=[Remove:type=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=true],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=17,to=14,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=false],[Move:typeFrom=Vertex,from=17,levelFrom=0,typeTo=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=13,to=13,actions=[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=14,to=14,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=13,to=13,actions=[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
+Move=[Move:mover=1,actions=[SetStateAndUpdateDice:site=26,state=3],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Pass:decision=true,forced=true]]
 Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=18,to=17,actions=[Move:typeFrom=Vertex,from=18,levelFrom=0,typeTo=Vertex,to=17,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
-Move=[Move:mover=1,from=11,to=11,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=true],[Remove:type=Vertex,to=11,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=12,to=12,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=12,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=8,to=11,actions=[Move:typeFrom=Vertex,from=8,levelFrom=0,typeTo=Vertex,to=11,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
-Move=[Move:mover=2,from=17,to=15,actions=[SetStateAndUpdateDice:site=26,state=1],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Move:typeFrom=Vertex,from=17,levelFrom=1,typeTo=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=2]]
-Move=[Move:mover=2,from=15,to=15,actions=[Remove:type=Vertex,to=15,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
-Move=[Move:mover=1,from=7,to=12,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Vertex,from=7,levelFrom=1,typeTo=Vertex,to=12,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=1]]
-Move=[Move:mover=1,from=9,to=10,actions=[Move:typeFrom=Vertex,from=9,levelFrom=0,typeTo=Vertex,to=10,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
-Move=[Move:mover=2,from=17,to=17,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=5],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=17,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=13,to=13,actions=[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,from=8,to=8,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Select:typeFrom=Vertex,from=8,levelFrom=1,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetState:type=Vertex,to=8,state=0],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=12,to=12,actions=[Remove:type=Vertex,to=12,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=2,from=14,to=14,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=14,to=13,actions=[Move:typeFrom=Vertex,from=14,levelFrom=3,typeTo=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,from=9,to=9,actions=[SetStateAndUpdateDice:site=26,state=5],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=9,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=9,to=9,actions=[Remove:type=Vertex,to=9,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
+Move=[Move:mover=2,from=13,to=13,actions=[SetStateAndUpdateDice:site=26,state=4],[SetStateAndUpdateDice:site=27,state=3],[SetDiceAllEqual:value=false],[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=14,to=14,actions=[Remove:type=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26]]
+Move=[Move:mover=1,from=8,to=11,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Vertex,from=8,levelFrom=1,typeTo=Vertex,to=11,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=8,to=10,actions=[Move:typeFrom=Vertex,from=8,levelFrom=0,typeTo=Vertex,to=10,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
+Move=[Move:mover=2,from=14,to=14,actions=[SetStateAndUpdateDice:site=26,state=2],[SetStateAndUpdateDice:site=27,state=2],[SetDiceAllEqual:value=true],[Remove:type=Vertex,to=14,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=14,to=13,actions=[SetStateAndUpdateDice:site=26,state=0],[SetStateAndUpdateDice:site=27,state=4],[SetDiceAllEqual:value=false],[Move:typeFrom=Vertex,from=14,levelFrom=0,typeTo=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=0,site=26],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=13,to=13,actions=[Remove:type=Vertex,to=13,decision=true],[UseDie:indexHandDice=0,indexDie=1,site=27]]
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
@@ -149,12 +145,21 @@ LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
@@ -169,7 +174,7 @@ LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 12
 LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 12
 LEGAL MOVES LIST SIZE = 6
@@ -181,27 +186,34 @@ LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 8
 LEGAL MOVES LIST SIZE = 4
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 8
 LEGAL MOVES LIST SIZE = 4
-LEGAL MOVES LIST SIZE = 12
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 6
-LEGAL MOVES LIST SIZE = 2
-LEGAL MOVES LIST SIZE = 12
-LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 6
 LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 4
 LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 10
 LEGAL MOVES LIST SIZE = 5
 LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
 winner=2
 endtype=NaturalEnd
 rankings=0.0,2.0,1.0
 SANDBOX=false
-LUDII_VERSION=1.1.17
+LUDII_VERSION=1.1.19

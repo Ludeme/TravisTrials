@@ -1,25 +1,26 @@
 game=../Common/res/lud/puzzle/planning/Tower of Hanoi.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=-96,113,10,-44,28,-51,-65,48
+RNG internal state=96,45,46,-57,-68,-7,-50,-5
 Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Cell,to=0,level=0,what=3,stack=true]]
 Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Cell,to=0,level=1,what=2,stack=true]]
 Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Cell,to=0,level=2,what=1,stack=true]]
-Move=[Move:mover=1,from=0,to=2,actions=[Move:typeFrom=Cell,from=0,levelFrom=2,typeTo=Cell,to=2,decision=true]]
-Move=[Move:mover=1,from=0,to=1,actions=[Move:typeFrom=Cell,from=0,levelFrom=1,typeTo=Cell,to=1,decision=true]]
-Move=[Move:mover=1,from=1,to=0,actions=[Move:typeFrom=Cell,from=1,levelFrom=0,typeTo=Cell,to=0,decision=true]]
-Move=[Move:mover=1,from=2,to=1,actions=[Move:typeFrom=Cell,from=2,levelFrom=0,typeTo=Cell,to=1,decision=true]]
-Move=[Move:mover=1,from=1,to=0,actions=[Move:typeFrom=Cell,from=1,levelFrom=0,typeTo=Cell,to=0,decision=true]]
 Move=[Move:mover=1,from=0,to=1,actions=[Move:typeFrom=Cell,from=0,levelFrom=2,typeTo=Cell,to=1,decision=true]]
+Move=[Move:mover=1,from=0,to=2,actions=[Move:typeFrom=Cell,from=0,levelFrom=1,typeTo=Cell,to=2,decision=true]]
 Move=[Move:mover=1,from=1,to=0,actions=[Move:typeFrom=Cell,from=1,levelFrom=0,typeTo=Cell,to=0,decision=true]]
+Move=[Move:mover=1,from=0,to=1,actions=[Move:typeFrom=Cell,from=0,levelFrom=1,typeTo=Cell,to=1,decision=true]]
+Move=[Move:mover=1,from=2,to=0,actions=[Move:typeFrom=Cell,from=2,levelFrom=0,typeTo=Cell,to=0,decision=true]]
+Move=[Move:mover=1,from=1,to=2,actions=[Move:typeFrom=Cell,from=1,levelFrom=0,typeTo=Cell,to=2,decision=true]]
+Move=[Move:mover=1,from=2,to=1,actions=[Move:typeFrom=Cell,from=2,levelFrom=0,typeTo=Cell,to=1,decision=true]]
 LEGAL MOVES LIST SIZE = 2
 LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 3
-LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 3
 LEGAL MOVES LIST SIZE = 3
 winner=0
+endtype=NaturalEnd
 rankings=0.0,0.0
 SANDBOX=false
-LUDII_VERSION=1.1.7
+LUDII_VERSION=1.1.19

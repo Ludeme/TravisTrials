@@ -1,41 +1,32 @@
 game=../Common/res/lud/board/race/reach/Patol.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=-51,75,98,-37,-82,26,-48,-124
+RNG internal state=5,67,-115,-99,-70,-89,-105,-72
 Move=[Move:mover=0,from=42,to=42,actions=[Add:type=Cell,to=42,level=0,what=1]]
 Move=[Move:mover=0,from=43,to=43,actions=[Add:type=Cell,to=43,level=0,what=2]]
 Move=[Move:mover=0,from=44,to=44,actions=[Add:type=Cell,to=44,level=0,what=3]]
 Move=[Move:mover=0,from=40,to=40,actions=[Add:type=Cell,to=40,level=0,what=4]]
 Move=[Move:mover=0,from=41,to=41,actions=[Add:type=Cell,to=41,level=0,what=5]]
-Move=[Move:mover=1,from=40,to=37,actions=[Move:typeFrom=Cell,from=40,levelFrom=0,typeTo=Edge,to=37,decision=true],[SetValue:type=Edge,to=37,value=37]]
-Move=[Move:mover=2,from=41,to=37,actions=[Move:typeFrom=Cell,from=41,levelFrom=0,typeTo=Edge,to=37,decision=true],[SetValue:type=Edge,to=37,value=37]]
-Move=[Move:mover=1,from=37,to=4,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=37,levelFrom=0,typeTo=Edge,to=4,decision=true],[SetValueOfPlayer:player=1,value=1]]
-Move=[Move:mover=2,from=37,to=2,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=37,levelFrom=0,typeTo=Edge,to=2,decision=true],[SetValueOfPlayer:player=2,value=1]]
-Move=[Move:mover=1,from=4,to=8,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=4,levelFrom=0,typeTo=Edge,to=8,decision=true]]
-Move=[Move:mover=2,from=2,to=12,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=true],[Move:typeFrom=Edge,from=2,levelFrom=0,typeTo=Edge,to=12,decision=true]]
-Move=[Move:mover=1,from=8,to=14,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=8,levelFrom=0,typeTo=Edge,to=14,decision=true]]
-Move=[Move:mover=2,from=12,to=36,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=12,levelFrom=0,typeTo=Edge,to=36,decision=true]]
-Move=[Move:mover=1,from=14,to=36,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=36,levelFrom=0,typeTo=Edge,to=37],[Move:typeFrom=Edge,from=14,levelFrom=0,typeTo=Edge,to=36,decision=true]]
-Move=[Move:mover=2,from=37,to=4,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=37,levelFrom=0,typeTo=Edge,to=4,decision=true]]
-Move=[Move:mover=1,from=36,to=20,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=36,levelFrom=0,typeTo=Edge,to=20,decision=true]]
-Move=[Move:mover=2,from=4,to=10,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=4,levelFrom=0,typeTo=Edge,to=10,decision=true]]
-Move=[Move:mover=1,from=20,to=26,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=20,levelFrom=0,typeTo=Edge,to=26,decision=true]]
-Move=[Move:mover=2,from=10,to=16,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=10,levelFrom=0,typeTo=Edge,to=16,decision=true]]
-Move=[Move:mover=1,from=26,to=32,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=26,levelFrom=0,typeTo=Edge,to=32,decision=true]]
-Move=[Move:mover=2,from=16,to=20,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=16,levelFrom=0,typeTo=Edge,to=20,decision=true]]
-Move=[Move:mover=1,from=32,to=35,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=32,levelFrom=0,typeTo=Edge,to=35,decision=true]]
-Move=[Move:mover=2,from=20,to=26,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=20,levelFrom=0,typeTo=Edge,to=26,decision=true]]
-Move=[Move:mover=1,from=35,to=31,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=35,levelFrom=0,typeTo=Edge,to=31,decision=true]]
-Move=[Move:mover=2,from=26,to=32,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=26,levelFrom=0,typeTo=Edge,to=32,decision=true]]
-Move=[Move:mover=1,from=31,to=25,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=31,levelFrom=0,typeTo=Edge,to=25,decision=true]]
-Move=[Move:mover=2,from=32,to=39,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=32,levelFrom=0,typeTo=Edge,to=39,decision=true]]
-Move=[Move:mover=1,from=25,to=19,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=25,levelFrom=0,typeTo=Edge,to=19,decision=true]]
-Move=[Move:mover=2,from=39,to=33,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=39,levelFrom=0,typeTo=Edge,to=33,decision=true]]
-Move=[Move:mover=1,from=19,to=11,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=true],[Move:typeFrom=Edge,from=19,levelFrom=0,typeTo=Edge,to=11,decision=true]]
-Move=[Move:mover=2,from=33,to=27,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=33,levelFrom=0,typeTo=Edge,to=27,decision=true]]
-Move=[Move:mover=1,from=11,to=7,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=11,levelFrom=0,typeTo=Edge,to=7,decision=true]]
-Move=[Move:mover=2,from=27,to=9,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=true],[Move:typeFrom=Edge,from=27,levelFrom=0,typeTo=Edge,to=9,decision=true]]
-Move=[Move:mover=1,from=7,to=10,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=true],[Move:typeFrom=Edge,from=7,levelFrom=0,typeTo=Edge,to=10,decision=true]]
+Move=[Move:mover=1,from=40,to=39,actions=[Move:typeFrom=Cell,from=40,levelFrom=0,typeTo=Edge,to=39,decision=true],[SetValue:type=Edge,to=39,value=39]]
+Move=[Move:mover=2,from=41,to=39,actions=[Move:typeFrom=Cell,from=41,levelFrom=0,typeTo=Edge,to=39,decision=true],[SetValue:type=Edge,to=39,value=39]]
+Move=[Move:mover=1,from=39,to=32,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=39,levelFrom=0,typeTo=Edge,to=32,decision=true],[SetValueOfPlayer:player=1,value=2]]
+Move=[Move:mover=2,from=39,to=31,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=39,levelFrom=0,typeTo=Edge,to=31,decision=true],[SetValueOfPlayer:player=2,value=1]]
+Move=[Move:mover=1,from=32,to=28,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=32,levelFrom=0,typeTo=Edge,to=28,decision=true]]
+Move=[Move:mover=2,from=31,to=21,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=true],[Move:typeFrom=Edge,from=31,levelFrom=0,typeTo=Edge,to=21,decision=true]]
+Move=[Move:mover=1,from=28,to=22,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=28,levelFrom=0,typeTo=Edge,to=22,decision=true]]
+Move=[Move:mover=2,from=21,to=17,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=21,levelFrom=0,typeTo=Edge,to=17,decision=true]]
+Move=[Move:mover=1,from=22,to=36,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=22,levelFrom=0,typeTo=Edge,to=36,decision=true]]
+Move=[Move:mover=2,from=17,to=0,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=true],[Move:typeFrom=Edge,from=17,levelFrom=0,typeTo=Edge,to=0,decision=true]]
+Move=[Move:mover=1,from=36,to=14,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=36,levelFrom=0,typeTo=Edge,to=14,decision=true]]
+Move=[Move:mover=2,from=0,to=6,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=0,levelFrom=0,typeTo=Edge,to=6,decision=true]]
+Move=[Move:mover=1,from=14,to=8,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=14,levelFrom=0,typeTo=Edge,to=8,decision=true]]
+Move=[Move:mover=2,from=6,to=10,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=6,levelFrom=0,typeTo=Edge,to=10,decision=true]]
+Move=[Move:mover=1,from=8,to=4,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=8,levelFrom=0,typeTo=Edge,to=4,decision=true]]
+Move=[Move:mover=2,from=10,to=14,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=10,levelFrom=0,typeTo=Edge,to=14,decision=true]]
+Move=[Move:mover=1,from=4,to=37,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=4,levelFrom=0,typeTo=Edge,to=37,decision=true]]
+Move=[Move:mover=2,from=14,to=32,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=1],[SetStateAndUpdateDice:site=44,state=1],[SetDiceAllEqual:value=true],[Move:typeFrom=Edge,from=14,levelFrom=0,typeTo=Edge,to=32,decision=true]]
+Move=[Move:mover=1,from=37,to=5,actions=[SetStateAndUpdateDice:site=42,state=1],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=false],[Move:typeFrom=Edge,from=37,levelFrom=0,typeTo=Edge,to=5,decision=true]]
+Move=[Move:mover=2,from=32,to=31,actions=[SetStateAndUpdateDice:site=42,state=0],[SetStateAndUpdateDice:site=43,state=0],[SetStateAndUpdateDice:site=44,state=0],[SetDiceAllEqual:value=true],[Move:typeFrom=Edge,from=32,levelFrom=0,typeTo=Edge,to=31,decision=true]]
 LEGAL MOVES LIST SIZE = 4
 LEGAL MOVES LIST SIZE = 4
 LEGAL MOVES LIST SIZE = 2
@@ -56,17 +47,8 @@ LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
 LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-LEGAL MOVES LIST SIZE = 1
-winner=1
+winner=2
 endtype=NaturalEnd
-rankings=0.0,1.0,2.0
+rankings=0.0,2.0,1.0
 SANDBOX=false
-LUDII_VERSION=1.1.15
+LUDII_VERSION=1.1.19

@@ -1,7 +1,7 @@
 game=../Common/res/lud/board/space/line/Agilidade.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=92,-77,86,-107,43,-119,-32,96
+RNG internal state=-13,-13,-30,-88,74,-51,-81,86
 Move=[Move:mover=0,from=5,to=5,actions=[Add:type=Cell,to=5,level=0,what=1,stack=true]]
 Move=[Move:mover=0,from=5,to=5,actions=[Add:type=Cell,to=5,level=1,what=1,stack=true]]
 Move=[Move:mover=0,from=5,to=5,actions=[Add:type=Cell,to=5,level=2,what=1,stack=true]]
@@ -16,13 +16,17 @@ Move=[Move:mover=0,from=6,to=6,actions=[Add:type=Cell,to=6,level=3,what=2,stack=
 Move=[Move:mover=0,from=6,to=6,actions=[Add:type=Cell,to=6,level=4,what=2,stack=true]]
 Move=[Move:mover=0,from=6,to=6,actions=[Add:type=Cell,to=6,level=5,what=2,stack=true]]
 Move=[Move:mover=0,from=6,to=6,actions=[Add:type=Cell,to=6,level=6,what=2,stack=true]]
-Move=[Move:mover=1,from=5,to=0,actions=[Move:typeFrom=Cell,from=5,levelFrom=6,typeTo=Vertex,to=0,decision=true]]
-Move=[Move:mover=2,from=6,to=0,actions=[Move:typeFrom=Cell,from=6,levelFrom=6,typeTo=Vertex,to=0,decision=true]]
-Move=[Move:mover=1,from=5,to=2,actions=[Move:typeFrom=Cell,from=5,levelFrom=5,typeTo=Vertex,to=2,decision=true]]
-Move=[Move:mover=2,from=6,to=3,actions=[Move:typeFrom=Cell,from=6,levelFrom=5,typeTo=Vertex,to=3,decision=true]]
-Move=[Move:mover=1,from=5,to=3,actions=[Move:typeFrom=Cell,from=5,levelFrom=4,typeTo=Vertex,to=3,decision=true]]
-Move=[Move:mover=2,from=6,to=0,actions=[Move:typeFrom=Cell,from=6,levelFrom=4,typeTo=Vertex,to=0,decision=true]]
-Move=[Move:mover=1,from=5,to=4,actions=[Move:typeFrom=Cell,from=5,levelFrom=3,typeTo=Vertex,to=4,decision=true]]
+Move=[Move:mover=1,from=5,to=1,actions=[Move:typeFrom=Cell,from=5,levelFrom=6,typeTo=Vertex,to=1,decision=true]]
+Move=[Move:mover=2,from=6,to=2,actions=[Move:typeFrom=Cell,from=6,levelFrom=6,typeTo=Vertex,to=2,decision=true]]
+Move=[Move:mover=1,from=5,to=3,actions=[Move:typeFrom=Cell,from=5,levelFrom=5,typeTo=Vertex,to=3,decision=true]]
+Move=[Move:mover=2,from=6,to=1,actions=[Move:typeFrom=Cell,from=6,levelFrom=5,typeTo=Vertex,to=1,decision=true]]
+Move=[Move:mover=1,from=5,to=1,actions=[Move:typeFrom=Cell,from=5,levelFrom=4,typeTo=Vertex,to=1,decision=true]]
+Move=[Move:mover=2,from=6,to=4,actions=[Move:typeFrom=Cell,from=6,levelFrom=4,typeTo=Vertex,to=4,decision=true]]
+Move=[Move:mover=1,from=5,to=2,actions=[Move:typeFrom=Cell,from=5,levelFrom=3,typeTo=Vertex,to=2,decision=true]]
+Move=[Move:mover=2,from=6,to=3,actions=[Move:typeFrom=Cell,from=6,levelFrom=3,typeTo=Vertex,to=3,decision=true]]
+Move=[Move:mover=1,from=5,to=0,actions=[Move:typeFrom=Cell,from=5,levelFrom=2,typeTo=Vertex,to=0,decision=true]]
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 5
 LEGAL MOVES LIST SIZE = 5
 LEGAL MOVES LIST SIZE = 5
 LEGAL MOVES LIST SIZE = 5
@@ -34,4 +38,4 @@ winner=1
 endtype=NaturalEnd
 rankings=0.0,1.0,2.0
 SANDBOX=false
-LUDII_VERSION=1.1.17
+LUDII_VERSION=1.1.19

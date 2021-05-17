@@ -1,7 +1,7 @@
 game=../Common/res/lud/experimental/Greater Even Loss.lud
 START GAME OPTIONS
 END GAME OPTIONS
-RNG internal state=126,72,-111,-58,-33,81,-56,-128
+RNG internal state=-74,-28,106,25,66,-90,-47,30
 Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Cell,to=0,what=1,state=1]]
 Move=[Move:mover=0,from=1,to=1,actions=[Add:type=Cell,to=1,what=1,state=2]]
 Move=[Move:mover=0,from=2,to=2,actions=[Add:type=Cell,to=2,what=1,state=3]]
@@ -18,12 +18,10 @@ Move=[Move:mover=0,from=12,to=12,actions=[Add:type=Cell,to=12,what=2,state=1]]
 Move=[Move:mover=0,from=13,to=13,actions=[Add:type=Cell,to=13,what=2,state=2]]
 Move=[Move:mover=0,from=14,to=14,actions=[Add:type=Cell,to=14,what=2,state=3]]
 Move=[Move:mover=0,from=15,to=15,actions=[Add:type=Cell,to=15,what=2,state=4]]
-Move=[Move:mover=1,from=4,to=4,actions=[Select:typeFrom=Cell,from=4,decision=true],[SetValueOfPlayer:player=1,value=5],[Remove:type=Cell,to=4]]
-Move=[Move:mover=2,from=13,to=13,actions=[Select:typeFrom=Cell,from=13,decision=true],[SetValueOfPlayer:player=2,value=2],[Remove:type=Cell,to=13]]
+Move=[Move:mover=1,from=1,to=1,actions=[Select:typeFrom=Cell,from=1,decision=true],[SetValueOfPlayer:player=1,value=2],[Remove:type=Cell,to=1]]
 LEGAL MOVES LIST SIZE = 8
-LEGAL MOVES LIST SIZE = 8
-winner=1
+winner=2
 endtype=NaturalEnd
-rankings=0.0,1.0,2.0
+rankings=0.0,2.0,1.0
 SANDBOX=false
-LUDII_VERSION=1.1.14
+LUDII_VERSION=1.1.19
