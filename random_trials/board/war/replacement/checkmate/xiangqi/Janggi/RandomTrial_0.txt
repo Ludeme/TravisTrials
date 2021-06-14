@@ -1,0 +1,63 @@
+game=../Common/res/lud/board/war/replacement/checkmate/xiangqi/Janggi.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-43,-124,-31,-78,-15,-105,30,-90
+Move=[Move:mover=0,from=13,to=13,actions=[Add:type=Vertex,to=13,what=1]]
+Move=[Move:mover=0,from=3,to=3,actions=[Add:type=Vertex,to=3,what=3]]
+Move=[Move:mover=0,from=5,to=5,actions=[Add:type=Vertex,to=5,what=3]]
+Move=[Move:mover=0,from=2,to=2,actions=[Add:type=Vertex,to=2,what=5]]
+Move=[Move:mover=0,from=6,to=6,actions=[Add:type=Vertex,to=6,what=5]]
+Move=[Move:mover=0,from=1,to=1,actions=[Add:type=Vertex,to=1,what=7]]
+Move=[Move:mover=0,from=7,to=7,actions=[Add:type=Vertex,to=7,what=7]]
+Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Vertex,to=0,what=9]]
+Move=[Move:mover=0,from=8,to=8,actions=[Add:type=Vertex,to=8,what=9]]
+Move=[Move:mover=0,from=19,to=19,actions=[Add:type=Vertex,to=19,what=11]]
+Move=[Move:mover=0,from=25,to=25,actions=[Add:type=Vertex,to=25,what=11]]
+Move=[Move:mover=0,from=27,to=27,actions=[Add:type=Vertex,to=27,what=13]]
+Move=[Move:mover=0,from=29,to=29,actions=[Add:type=Vertex,to=29,what=13]]
+Move=[Move:mover=0,from=31,to=31,actions=[Add:type=Vertex,to=31,what=13]]
+Move=[Move:mover=0,from=33,to=33,actions=[Add:type=Vertex,to=33,what=13]]
+Move=[Move:mover=0,from=35,to=35,actions=[Add:type=Vertex,to=35,what=13]]
+Move=[Move:mover=0,from=76,to=76,actions=[Add:type=Vertex,to=76,what=2]]
+Move=[Move:mover=0,from=84,to=84,actions=[Add:type=Vertex,to=84,what=4]]
+Move=[Move:mover=0,from=86,to=86,actions=[Add:type=Vertex,to=86,what=4]]
+Move=[Move:mover=0,from=83,to=83,actions=[Add:type=Vertex,to=83,what=6]]
+Move=[Move:mover=0,from=87,to=87,actions=[Add:type=Vertex,to=87,what=6]]
+Move=[Move:mover=0,from=82,to=82,actions=[Add:type=Vertex,to=82,what=8]]
+Move=[Move:mover=0,from=88,to=88,actions=[Add:type=Vertex,to=88,what=8]]
+Move=[Move:mover=0,from=81,to=81,actions=[Add:type=Vertex,to=81,what=10]]
+Move=[Move:mover=0,from=89,to=89,actions=[Add:type=Vertex,to=89,what=10]]
+Move=[Move:mover=0,from=64,to=64,actions=[Add:type=Vertex,to=64,what=12]]
+Move=[Move:mover=0,from=70,to=70,actions=[Add:type=Vertex,to=70,what=12]]
+Move=[Move:mover=0,from=54,to=54,actions=[Add:type=Vertex,to=54,what=14]]
+Move=[Move:mover=0,from=56,to=56,actions=[Add:type=Vertex,to=56,what=14]]
+Move=[Move:mover=0,from=58,to=58,actions=[Add:type=Vertex,to=58,what=14]]
+Move=[Move:mover=0,from=60,to=60,actions=[Add:type=Vertex,to=60,what=14]]
+Move=[Move:mover=0,from=62,to=62,actions=[Add:type=Vertex,to=62,what=14]]
+Move=[Move:mover=1,from=31,to=30,actions=[Move:typeFrom=Vertex,from=31,typeTo=Vertex,to=30,decision=true],[SetTemp:temp=0]]
+Move=[Move:mover=2,from=88,to=69,actions=[Move:typeFrom=Vertex,from=88,levelFrom=0,typeTo=Vertex,to=69,decision=true],[SetTemp:temp=0]]
+Move=[Move:mover=1,from=33,to=42,actions=[Move:typeFrom=Vertex,from=33,typeTo=Vertex,to=42,decision=true],[SetTemp:temp=0]]
+Move=[Move:mover=2,from=70,to=66,actions=[Move:typeFrom=Vertex,from=70,typeTo=Vertex,to=66,decision=true],[SetTemp:temp=0]]
+Move=[Move:mover=1,from=0,to=18,actions=[Move:typeFrom=Vertex,from=0,typeTo=Vertex,to=18,decision=true],[SetTemp:temp=0]]
+Move=[Move:mover=2,from=86,to=85,actions=[Move:typeFrom=Vertex,from=86,typeTo=Vertex,to=85,decision=true],[SetTemp:temp=0]]
+Move=[Move:mover=1,from=13,to=14,actions=[Move:typeFrom=Vertex,from=13,typeTo=Vertex,to=14,decision=true],[SetTemp:temp=0]]
+Move=[Move:mover=2,from=82,to=65,actions=[Move:typeFrom=Vertex,from=82,levelFrom=0,typeTo=Vertex,to=65,decision=true],[SetTemp:temp=0]]
+Move=[Move:mover=1,from=6,to=31,actions=[Move:typeFrom=Vertex,from=6,levelFrom=0,typeTo=Vertex,to=31,decision=true],[SetTemp:temp=0]]
+Move=[Move:mover=2,from=76,to=86,actions=[Move:typeFrom=Vertex,from=76,typeTo=Vertex,to=86,decision=true],[SetTemp:temp=1]]
+Move=[Move:mover=1,from=18,to=9,actions=[Move:typeFrom=Vertex,from=18,typeTo=Vertex,to=9,decision=true],[SetTemp:temp=0]]
+LEGAL MOVES LIST SIZE = 31
+LEGAL MOVES LIST SIZE = 31
+LEGAL MOVES LIST SIZE = 31
+LEGAL MOVES LIST SIZE = 35
+LEGAL MOVES LIST SIZE = 29
+LEGAL MOVES LIST SIZE = 36
+LEGAL MOVES LIST SIZE = 28
+LEGAL MOVES LIST SIZE = 36
+LEGAL MOVES LIST SIZE = 27
+LEGAL MOVES LIST SIZE = 36
+LEGAL MOVES LIST SIZE = 27
+winner=0
+endtype=NaturalEnd
+rankings=0.0,1.5,1.5
+SANDBOX=false
+LUDII_VERSION=1.2.1

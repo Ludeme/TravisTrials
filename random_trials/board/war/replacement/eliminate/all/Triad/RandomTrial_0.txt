@@ -1,0 +1,106 @@
+game=../Common/res/lud/board/war/replacement/eliminate/all/Triad.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-39,-65,-66,-44,118,50,-72,-34
+Move=[Move:mover=0,from=11,to=11,actions=[Add:type=Cell,to=11,what=1]]
+Move=[Move:mover=0,from=18,to=18,actions=[Add:type=Cell,to=18,what=1]]
+Move=[Move:mover=0,from=19,to=19,actions=[Add:type=Cell,to=19,what=1]]
+Move=[Move:mover=0,from=26,to=26,actions=[Add:type=Cell,to=26,what=1]]
+Move=[Move:mover=0,from=27,to=27,actions=[Add:type=Cell,to=27,what=1]]
+Move=[Move:mover=0,from=28,to=28,actions=[Add:type=Cell,to=28,what=1]]
+Move=[Move:mover=0,from=35,to=35,actions=[Add:type=Cell,to=35,what=1]]
+Move=[Move:mover=0,from=36,to=36,actions=[Add:type=Cell,to=36,what=1]]
+Move=[Move:mover=0,from=43,to=43,actions=[Add:type=Cell,to=43,what=1]]
+Move=[Move:mover=0,from=47,to=47,actions=[Add:type=Cell,to=47,what=2]]
+Move=[Move:mover=0,from=48,to=48,actions=[Add:type=Cell,to=48,what=2]]
+Move=[Move:mover=0,from=49,to=49,actions=[Add:type=Cell,to=49,what=2]]
+Move=[Move:mover=0,from=53,to=53,actions=[Add:type=Cell,to=53,what=2]]
+Move=[Move:mover=0,from=54,to=54,actions=[Add:type=Cell,to=54,what=2]]
+Move=[Move:mover=0,from=55,to=55,actions=[Add:type=Cell,to=55,what=2]]
+Move=[Move:mover=0,from=58,to=58,actions=[Add:type=Cell,to=58,what=2]]
+Move=[Move:mover=0,from=59,to=59,actions=[Add:type=Cell,to=59,what=2]]
+Move=[Move:mover=0,from=60,to=60,actions=[Add:type=Cell,to=60,what=2]]
+Move=[Move:mover=0,from=2,to=2,actions=[Add:type=Cell,to=2,what=3]]
+Move=[Move:mover=0,from=3,to=3,actions=[Add:type=Cell,to=3,what=3]]
+Move=[Move:mover=0,from=4,to=4,actions=[Add:type=Cell,to=4,what=3]]
+Move=[Move:mover=0,from=8,to=8,actions=[Add:type=Cell,to=8,what=3]]
+Move=[Move:mover=0,from=9,to=9,actions=[Add:type=Cell,to=9,what=3]]
+Move=[Move:mover=0,from=10,to=10,actions=[Add:type=Cell,to=10,what=3]]
+Move=[Move:mover=0,from=15,to=15,actions=[Add:type=Cell,to=15,what=3]]
+Move=[Move:mover=0,from=16,to=16,actions=[Add:type=Cell,to=16,what=3]]
+Move=[Move:mover=0,from=17,to=17,actions=[Add:type=Cell,to=17,what=3]]
+Move=[Move:mover=1,from=19,to=24,actions=[Move:typeFrom=Cell,from=19,typeTo=Cell,to=24,decision=true],[Remove:type=Cell,to=16],[Remove:type=Cell,to=17],[SetTemp:temp=2],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=16,to=16,actions=[Add:type=Cell,to=16,level=0,what=3,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=49,to=23,actions=[Move:typeFrom=Cell,from=49,typeTo=Cell,to=23,decision=true],[Remove:type=Cell,to=15],[Remove:type=Cell,to=16],[Remove:type=Cell,to=24],[SetTemp:temp=3],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=25,to=25,actions=[Add:type=Cell,to=25,level=0,what=1,decision=true],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=9,to=24,actions=[Move:typeFrom=Cell,from=9,typeTo=Cell,to=24,decision=true],[Remove:type=Cell,to=23],[Remove:type=Cell,to=25],[SetTemp:temp=2],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=16,to=16,actions=[Add:type=Cell,to=16,level=0,what=1,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=58,to=37,actions=[Move:typeFrom=Cell,from=58,typeTo=Cell,to=37,decision=true],[Remove:type=Cell,to=28],[Remove:type=Cell,to=36],[SetTemp:temp=3],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=45,to=45,actions=[Add:type=Cell,to=45,level=0,what=1,decision=true],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=2,to=36,actions=[Move:typeFrom=Cell,from=2,typeTo=Cell,to=36,decision=true],[Remove:type=Cell,to=27],[Remove:type=Cell,to=35],[Remove:type=Cell,to=37],[Remove:type=Cell,to=43],[SetTemp:temp=1],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=7,to=7,actions=[Add:type=Cell,to=7,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=16,to=9,actions=[Move:typeFrom=Cell,from=16,typeTo=Cell,to=9,decision=true],[Remove:type=Cell,to=3],[Remove:type=Cell,to=4],[Remove:type=Cell,to=8],[Remove:type=Cell,to=10],[SetTemp:temp=3],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=17,to=17,actions=[Add:type=Cell,to=17,level=0,what=2,decision=true],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=24,to=16,actions=[Move:typeFrom=Cell,from=24,typeTo=Cell,to=16,decision=true],[Remove:type=Cell,to=9],[Remove:type=Cell,to=17],[SetTemp:temp=1],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=14,to=14,actions=[Add:type=Cell,to=14,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=45,to=58,actions=[Move:typeFrom=Cell,from=45,typeTo=Cell,to=58,decision=true],[Remove:type=Cell,to=53],[Remove:type=Cell,to=59],[SetTemp:temp=3],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=50,to=50,actions=[Add:type=Cell,to=50,level=0,what=2,decision=true],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=36,to=13,actions=[Move:typeFrom=Cell,from=36,typeTo=Cell,to=13,decision=true],[Remove:type=Cell,to=7],[Remove:type=Cell,to=14],[SetTemp:temp=1],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=17,to=17,actions=[Add:type=Cell,to=17,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=58,to=59,actions=[Move:typeFrom=Cell,from=58,typeTo=Cell,to=59,decision=true],[Remove:type=Cell,to=54],[Remove:type=Cell,to=60],[SetTemp:temp=2],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=29,to=29,actions=[Add:type=Cell,to=29,level=0,what=3,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=48,to=54,actions=[Move:typeFrom=Cell,from=48,typeTo=Cell,to=54,decision=true],[Remove:type=Cell,to=59],[SetTemp:temp=3],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=8,to=8,actions=[Add:type=Cell,to=8,level=0,what=1,decision=true],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=29,to=53,actions=[Move:typeFrom=Cell,from=29,typeTo=Cell,to=53,decision=true],[Remove:type=Cell,to=47],[Remove:type=Cell,to=54],[SetTemp:temp=1],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=40,to=40,actions=[Add:type=Cell,to=40,level=0,what=2,decision=true],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=18,to=24,actions=[Move:typeFrom=Cell,from=18,typeTo=Cell,to=24,decision=true],[Remove:type=Cell,to=16],[Remove:type=Cell,to=17],[SetTemp:temp=2],[SetNextPlayer:player=1]]
+Move=[Move:mover=1,from=48,to=48,actions=[Add:type=Cell,to=48,level=0,what=3,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=55,to=54,actions=[Move:typeFrom=Cell,from=55,typeTo=Cell,to=54,decision=true],[Remove:type=Cell,to=48],[Remove:type=Cell,to=53],[SetTemp:temp=3],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=14,to=14,actions=[Add:type=Cell,to=14,level=0,what=1,decision=true],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=13,to=7,actions=[Move:typeFrom=Cell,from=13,typeTo=Cell,to=7,decision=true],[Remove:type=Cell,to=8],[Remove:type=Cell,to=14],[SetTemp:temp=2],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=19,to=19,actions=[Add:type=Cell,to=19,level=0,what=1,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=54,to=33,actions=[Move:typeFrom=Cell,from=54,typeTo=Cell,to=33,decision=true],[Remove:type=Cell,to=24],[SetTemp:temp=3],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=5,to=5,actions=[Add:type=Cell,to=5,level=0,what=1,decision=true],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=7,to=28,actions=[Move:typeFrom=Cell,from=7,typeTo=Cell,to=28,decision=true],[Remove:type=Cell,to=19],[SetTemp:temp=2],[SetNextPlayer:player=3]]
+Move=[Move:mover=3,from=48,to=48,actions=[Add:type=Cell,to=48,level=0,what=1,decision=true],[SetNextPlayer:player=2]]
+Move=[Move:mover=2,from=50,to=29,actions=[Move:typeFrom=Cell,from=50,typeTo=Cell,to=29,decision=true],[Remove:type=Cell,to=28],[SetTemp:temp=1],[SetNextPlayer:player=2]]
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 36
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 38
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 39
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 40
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 43
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 46
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 47
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 48
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 49
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 50
+LEGAL MOVES LIST SIZE = 13
+LEGAL MOVES LIST SIZE = 50
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 51
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 52
+LEGAL MOVES LIST SIZE = 3
+LEGAL MOVES LIST SIZE = 53
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 54
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 54
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 54
+LEGAL MOVES LIST SIZE = 6
+winner=1
+endtype=NaturalEnd
+rankings=0.0,1.0,2.0,3.0
+SANDBOX=false
+LUDII_VERSION=1.2.1
