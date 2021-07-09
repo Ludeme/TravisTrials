@@ -1,0 +1,104 @@
+game=../Common/res/lud/board/space/group/Hermit.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-113,19,-48,18,-75,48,-19,-75
+Move=[Move:mover=0,actions=[SetScore:player=1,score=0]]
+Move=[Move:mover=0,actions=[SetScore:player=2,score=0]]
+Move=[Move:mover=1,from=59,to=59,actions=[Add:type=Vertex,to=59,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=34,to=34,actions=[Add:type=Vertex,to=34,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=47,to=47,actions=[Add:type=Vertex,to=47,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=54,to=54,actions=[Add:type=Vertex,to=54,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=20,to=20,actions=[Add:type=Vertex,to=20,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=51,to=51,actions=[Add:type=Vertex,to=51,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=38,to=38,actions=[Add:type=Vertex,to=38,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=0,to=0,actions=[Add:type=Vertex,to=0,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=2,to=2,actions=[Add:type=Vertex,to=2,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=3,to=3,actions=[Add:type=Vertex,to=3,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=10,to=10,actions=[Add:type=Vertex,to=10,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=40,to=40,actions=[Add:type=Vertex,to=40,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=18,to=18,actions=[Add:type=Vertex,to=18,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=58,to=58,actions=[Add:type=Vertex,to=58,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=6,to=6,actions=[Add:type=Vertex,to=6,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=7,to=7,actions=[Add:type=Vertex,to=7,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=36,to=36,actions=[Add:type=Vertex,to=36,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=49,to=49,actions=[Add:type=Vertex,to=49,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=27,to=27,actions=[Add:type=Vertex,to=27,level=0,what=1,decision=true],[SetScore:player=1,score=-10199,add=true]]
+Move=[Move:mover=2,from=16,to=16,actions=[Add:type=Vertex,to=16,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=28,to=28,actions=[Add:type=Vertex,to=28,level=0,what=1,decision=true],[SetScore:player=1,score=-10101,add=true]]
+Move=[Move:mover=2,from=42,to=42,actions=[Add:type=Vertex,to=42,level=0,what=2,decision=true],[SetScore:player=2,score=-10199,add=true]]
+Move=[Move:mover=1,from=53,to=53,actions=[Add:type=Vertex,to=53,level=0,what=1,decision=true],[SetScore:player=1,score=-10199,add=true]]
+Move=[Move:mover=2,from=22,to=22,actions=[Add:type=Vertex,to=22,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=1,to=1,actions=[Add:type=Vertex,to=1,level=0,what=1,decision=true],[SetScore:player=1,score=-10199,add=true]]
+Move=[Move:mover=2,from=14,to=14,actions=[Add:type=Vertex,to=14,level=0,what=2,decision=true],[SetScore:player=2,score=-10199,add=true]]
+Move=[Move:mover=1,from=23,to=23,actions=[Add:type=Vertex,to=23,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=29,to=29,actions=[Add:type=Vertex,to=29,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=56,to=56,actions=[Add:type=Vertex,to=56,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=15,to=15,actions=[Add:type=Vertex,to=15,level=0,what=2,decision=true],[SetScore:player=2,score=-10101,add=true]]
+Move=[Move:mover=1,from=41,to=41,actions=[Add:type=Vertex,to=41,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=35,to=35,actions=[Add:type=Vertex,to=35,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=48,to=48,actions=[Add:type=Vertex,to=48,level=0,what=1,decision=true],[SetScore:player=1,score=-10101,add=true]]
+Move=[Move:mover=2,from=46,to=46,actions=[Add:type=Vertex,to=46,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,from=25,to=25,actions=[Add:type=Vertex,to=25,level=0,what=1,decision=true],[SetScore:player=1,score=10100,add=true]]
+Move=[Move:mover=2,from=45,to=45,actions=[Add:type=Vertex,to=45,level=0,what=2,decision=true],[SetScore:player=2,score=-10199,add=true]]
+Move=[Move:mover=1,from=24,to=24,actions=[Add:type=Vertex,to=24,level=0,what=1,decision=true],[SetScore:player=1,score=-10199,add=true]]
+Move=[Move:mover=2,from=39,to=39,actions=[Add:type=Vertex,to=39,level=0,what=2,decision=true],[SetScore:player=2,score=-10101,add=true]]
+Move=[Move:mover=1,from=17,to=17,actions=[Add:type=Vertex,to=17,level=0,what=1,decision=true],[SetScore:player=1,score=-10101,add=true]]
+Move=[Move:mover=2,from=12,to=12,actions=[Add:type=Vertex,to=12,level=0,what=2,decision=true],[SetScore:player=2,score=10100,add=true]]
+Move=[Move:mover=1,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=55,to=55,actions=[Add:type=Vertex,to=55,level=0,what=2,decision=true],[SetScore:player=2,score=-10101,add=true]]
+Move=[Move:mover=1,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,from=5,to=5,actions=[Add:type=Vertex,to=5,level=0,what=2,decision=true],[SetScore:player=2,score=-10199,add=true]]
+Move=[Move:mover=1,actions=[Pass:decision=true,forced=true]]
+Move=[Move:mover=2,actions=[Pass:decision=true,forced=true]]
+LEGAL MOVES LIST SIZE = 61
+LEGAL MOVES LIST SIZE = 60
+LEGAL MOVES LIST SIZE = 55
+LEGAL MOVES LIST SIZE = 55
+LEGAL MOVES LIST SIZE = 51
+LEGAL MOVES LIST SIZE = 49
+LEGAL MOVES LIST SIZE = 43
+LEGAL MOVES LIST SIZE = 41
+LEGAL MOVES LIST SIZE = 41
+LEGAL MOVES LIST SIZE = 36
+LEGAL MOVES LIST SIZE = 36
+LEGAL MOVES LIST SIZE = 31
+LEGAL MOVES LIST SIZE = 31
+LEGAL MOVES LIST SIZE = 26
+LEGAL MOVES LIST SIZE = 28
+LEGAL MOVES LIST SIZE = 28
+LEGAL MOVES LIST SIZE = 29
+LEGAL MOVES LIST SIZE = 26
+LEGAL MOVES LIST SIZE = 27
+LEGAL MOVES LIST SIZE = 26
+LEGAL MOVES LIST SIZE = 26
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 19
+LEGAL MOVES LIST SIZE = 19
+LEGAL MOVES LIST SIZE = 16
+LEGAL MOVES LIST SIZE = 19
+LEGAL MOVES LIST SIZE = 14
+LEGAL MOVES LIST SIZE = 17
+LEGAL MOVES LIST SIZE = 9
+LEGAL MOVES LIST SIZE = 17
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 10
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+LEGAL MOVES LIST SIZE = 1
+numInitialPlacementMoves=2
+winner=2
+endtype=NaturalEnd
+rankings=0.0,2.0,1.0
+SANDBOX=false
+LUDII_VERSION=1.2.3
