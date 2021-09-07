@@ -1,0 +1,20 @@
+game=../Common/res/lud/board/war/replacement/checkmate/chess/1D Chess.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=105,37,124,-2,-83,81,-105,-41
+Move=[Move:mover=0,from=2,to=2,actions=[Add:type=Cell,to=2,what=1]]
+Move=[Move:mover=0,from=1,to=1,actions=[Add:type=Cell,to=1,what=5]]
+Move=[Move:mover=0,from=0,to=0,actions=[Add:type=Cell,to=0,what=3]]
+Move=[Move:mover=0,from=5,to=5,actions=[Add:type=Cell,to=5,what=2]]
+Move=[Move:mover=0,from=6,to=6,actions=[Add:type=Cell,to=6,what=6]]
+Move=[Move:mover=0,from=7,to=7,actions=[Add:type=Cell,to=7,what=4]]
+Move=[Move:mover=1,from=2,to=5,actions=[Remove:type=Cell,to=5],[Move:typeFrom=Cell,from=2,typeTo=Cell,to=5,decision=true]]
+Move=[Move:mover=2,actions=[Pass:decision=true,forced=true]]
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 1
+numInitialPlacementMoves=6
+winner=0
+endtype=NaturalEnd
+rankings=0.0,1.5,1.5
+SANDBOX=false
+LUDII_VERSION=1.2.8
