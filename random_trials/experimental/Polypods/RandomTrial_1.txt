@@ -1,0 +1,64 @@
+game=../Common/res/lud/experimental/Polypods.lud
+START GAME OPTIONS
+END GAME OPTIONS
+RNG internal state=-80,-69,124,75,-18,41,-65,-35
+Move=[Move:mover=1,from=6,to=6,actions=[Insert:type=Vertex,to=6,level=0,what=1,decision=true],[SetState:type=Vertex,to=6,state=0],[SetScore:player=1,score=0],[SetScore:player=2,score=0]]
+Move=[Move:mover=2,from=16,to=16,actions=[Insert:type=Vertex,to=16,level=0,what=2,decision=true],[SetState:type=Vertex,to=16,state=0],[SetScore:player=2,score=0],[SetScore:player=1,score=0]]
+Move=[Move:mover=1,from=22,to=22,actions=[Insert:type=Vertex,to=22,level=0,what=1,decision=true],[SetState:type=Vertex,to=22,state=0],[SetScore:player=1,score=0],[SetScore:player=2,score=0]]
+Move=[Move:mover=2,from=20,to=20,actions=[Insert:type=Vertex,to=20,level=0,what=2,decision=true],[SetState:type=Vertex,to=16,state=0],[SetState:type=Vertex,to=20,state=0],[SetScore:player=2,score=0],[SetScore:player=1,score=0]]
+Move=[Move:mover=1,from=11,to=11,actions=[Insert:type=Vertex,to=11,level=0,what=1,decision=true],[SetState:type=Vertex,to=6,state=0],[SetState:type=Vertex,to=11,state=0],[SetScore:player=1,score=0],[SetScore:player=2,score=0]]
+Move=[Move:mover=2,from=8,to=8,actions=[Insert:type=Vertex,to=8,level=0,what=2,decision=true],[SetState:type=Vertex,to=8,state=0],[SetScore:player=2,score=0],[SetScore:player=1,score=0]]
+Move=[Move:mover=1,from=23,to=23,actions=[Insert:type=Vertex,to=23,level=0,what=1,decision=true],[SetState:type=Vertex,to=22,state=0],[SetState:type=Vertex,to=23,state=0],[SetScore:player=1,score=0],[SetScore:player=2,score=0]]
+Move=[Move:mover=2,actions=[Pass:decision=true],[SetScore:player=2,score=0],[SetScore:player=1,score=0]]
+Move=[Move:mover=1,from=9,to=9,actions=[Insert:type=Vertex,to=9,level=0,what=1,decision=true],[SetState:type=Vertex,to=9,state=0],[SetScore:player=1,score=0],[SetScore:player=2,score=0]]
+Move=[Move:mover=2,from=13,to=13,actions=[Insert:type=Vertex,to=13,level=0,what=2,decision=true],[SetState:type=Vertex,to=8,state=0],[SetState:type=Vertex,to=13,state=0],[SetScore:player=2,score=0],[SetScore:player=1,score=0]]
+Move=[Move:mover=1,from=24,to=24,actions=[Insert:type=Vertex,to=24,level=0,what=1,decision=true],[SetState:type=Vertex,to=24,state=0],[SetScore:player=1,score=0],[SetScore:player=2,score=0]]
+Move=[Move:mover=2,from=19,to=19,actions=[Insert:type=Vertex,to=19,level=0,what=2,decision=true],[SetState:type=Vertex,to=8,state=0],[SetState:type=Vertex,to=13,state=1],[SetState:type=Vertex,to=19,state=0],[SetScore:player=2,score=1],[SetScore:player=1,score=0]]
+Move=[Move:mover=1,from=1,to=1,actions=[Insert:type=Vertex,to=1,level=0,what=1,decision=true],[SetState:type=Vertex,to=1,state=0],[SetState:type=Vertex,to=6,state=1],[SetState:type=Vertex,to=11,state=0],[SetScore:player=1,score=1],[SetScore:player=2,score=1]]
+Move=[Move:mover=2,from=18,to=18,actions=[Insert:type=Vertex,to=18,level=0,what=2,decision=true],[SetState:type=Vertex,to=8,state=0],[SetState:type=Vertex,to=13,state=1],[SetState:type=Vertex,to=18,state=0],[SetState:type=Vertex,to=19,state=0],[SetScore:player=2,score=1],[SetScore:player=1,score=1]]
+Move=[Move:mover=1,from=15,to=15,actions=[Insert:type=Vertex,to=15,level=0,what=1,decision=true],[SetState:type=Vertex,to=9,state=0],[SetState:type=Vertex,to=15,state=0],[SetScore:player=1,score=1],[SetScore:player=2,score=1]]
+Move=[Move:mover=2,from=25,to=25,actions=[Insert:type=Vertex,to=25,level=0,what=2,decision=true],[SetState:type=Vertex,to=25,state=0],[SetScore:player=2,score=1],[SetScore:player=1,score=1]]
+Move=[Move:mover=1,actions=[Pass:decision=true],[SetScore:player=1,score=1],[SetScore:player=2,score=1]]
+Move=[Move:mover=2,from=10,to=10,actions=[Insert:type=Vertex,to=10,level=0,what=2,decision=true],[SetState:type=Vertex,to=10,state=0],[SetState:type=Vertex,to=16,state=1],[SetState:type=Vertex,to=20,state=0],[RememberValue:name=CS,value=11],[RememberValue:name=KS,value=1],[RememberValue:name=KS,value=9],[RememberValue:name=CS,value=15],[Remove:type=Vertex,to=11],[SetState:type=Vertex,to=1,state=0],[SetState:type=Vertex,to=6,state=0],[SetState:type=Vertex,to=9,state=0],[ForgetValue:name=CS,value=11],[ForgetValue:name=CS,value=15],[ForgetValue:name=KS,value=1],[ForgetValue:name=KS,value=9],[RememberValue:name=CS,value=11],[RememberValue:name=KS,value=1],[RememberValue:name=KS,value=9],[RememberValue:name=CS,value=15],[Remove:type=Vertex,to=15],[SetState:type=Vertex,to=1,state=0],[SetState:type=Vertex,to=6,state=0],[SetState:type=Vertex,to=9,state=0],[ForgetValue:name=CS,value=11],[ForgetValue:name=CS,value=15],[ForgetValue:name=KS,value=1],[ForgetValue:name=KS,value=9],[SetScore:player=2,score=2],[SetScore:player=1,score=0]]
+Move=[Move:mover=1,from=3,to=3,actions=[Insert:type=Vertex,to=3,level=0,what=1,decision=true],[SetState:type=Vertex,to=3,state=0],[SetScore:player=1,score=0],[SetScore:player=2,score=2]]
+Move=[Move:mover=2,actions=[Pass:decision=true],[SetScore:player=2,score=2],[SetScore:player=1,score=0]]
+Move=[Move:mover=1,from=26,to=26,actions=[Insert:type=Vertex,to=26,level=0,what=1,decision=true],[SetState:type=Vertex,to=22,state=0],[SetState:type=Vertex,to=23,state=0],[SetState:type=Vertex,to=26,state=0],[SetScore:player=1,score=0],[SetScore:player=2,score=2]]
+Move=[Move:mover=2,actions=[Pass:decision=true],[SetScore:player=2,score=2],[SetScore:player=1,score=0]]
+Move=[Move:mover=1,from=0,to=0,actions=[Insert:type=Vertex,to=0,level=0,what=1,decision=true],[SetState:type=Vertex,to=0,state=0],[SetState:type=Vertex,to=1,state=1],[SetState:type=Vertex,to=6,state=0],[SetScore:player=1,score=1],[SetScore:player=2,score=2]]
+Move=[Move:mover=2,from=15,to=15,actions=[Insert:type=Vertex,to=15,level=0,what=2,decision=true],[SetState:type=Vertex,to=10,state=0],[SetState:type=Vertex,to=15,state=1],[SetState:type=Vertex,to=16,state=1],[SetState:type=Vertex,to=20,state=0],[RememberValue:name=CS,value=9],[Remove:type=Vertex,to=9],[ForgetValue:name=CS,value=9],[SetScore:player=2,score=3],[SetScore:player=1,score=1]]
+Move=[Move:mover=1,from=2,to=2,actions=[Insert:type=Vertex,to=2,level=0,what=1,decision=true],[SetState:type=Vertex,to=0,state=0],[SetState:type=Vertex,to=1,state=1],[SetState:type=Vertex,to=2,state=1],[SetState:type=Vertex,to=3,state=0],[SetState:type=Vertex,to=6,state=0],[SetScore:player=1,score=2],[SetScore:player=2,score=3]]
+Move=[Move:mover=2,actions=[Pass:decision=true],[SetScore:player=2,score=3],[SetScore:player=1,score=2]]
+Move=[Move:mover=1,actions=[Pass:decision=true],[SetScore:player=1,score=2],[SetScore:player=2,score=3]]
+LEGAL MOVES LIST SIZE = 28
+LEGAL MOVES LIST SIZE = 27
+LEGAL MOVES LIST SIZE = 26
+LEGAL MOVES LIST SIZE = 25
+LEGAL MOVES LIST SIZE = 24
+LEGAL MOVES LIST SIZE = 23
+LEGAL MOVES LIST SIZE = 22
+LEGAL MOVES LIST SIZE = 21
+LEGAL MOVES LIST SIZE = 20
+LEGAL MOVES LIST SIZE = 20
+LEGAL MOVES LIST SIZE = 18
+LEGAL MOVES LIST SIZE = 18
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 10
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 9
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 7
+LEGAL MOVES LIST SIZE = 12
+LEGAL MOVES LIST SIZE = 6
+LEGAL MOVES LIST SIZE = 11
+LEGAL MOVES LIST SIZE = 5
+LEGAL MOVES LIST SIZE = 8
+LEGAL MOVES LIST SIZE = 4
+LEGAL MOVES LIST SIZE = 2
+LEGAL MOVES LIST SIZE = 2
+numInitialPlacementMoves=0
+winner=2
+endtype=NaturalEnd
+rankings=0.0,2.0,1.0
+SANDBOX=false
+LUDII_VERSION=1.3.4
